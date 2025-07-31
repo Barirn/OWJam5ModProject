@@ -90,7 +90,7 @@
     "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "알누스: 대답이 마음에 들지 않을 것 같지만, 어쨌든 물어봐야겠어. 컴퓨터 안에 뭐가 있는데?",
     "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "아도소니아: 오, 별거 아니야 — 그냥 내가 오리자 선생님한테 프로젝트의 다섯 번째 조건이 될 거라고 말했던 내용이 들어있어.",
     "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "알누스: 아도소니아, 이런 게임할 시간 없어. 새로운 조건을 알 수 있게 정답을 알려줘.",
-    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Glacial Abyss!</color>]]>. I'm sure that you understand!": "아도소니아: 미안. 나도 대답해 주고 싶은데, 지금 <![CDATA[<color=orange>빙하 심연!</color>]]>에서 하고 있는 프로젝트 때문에 정말 바빠! 이해해 줄 거라 믿을게!",
+    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "아도소니아: 미안. 나도 대답해 주고 싶은데, 지금 <![CDATA[<color=orange>다우커</color>]]>에서 하고 있는 프로젝트 때문에 정말 바빠! 이해해 줄 거라 믿을게!",
     "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "알누스: 그걸 쓰려고 여기까지 온 거냐!!!",
     "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "다우커스: 만약 우리가 하기에 아주 어려운 조건을 제출했다면, 넌 이 항성계가 축제에서 공개되는 걸 보지 못할 거야.",
 
@@ -167,7 +167,7 @@
 
     //platform_invitation
     "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.": "눈앞에 있는 항성계는 \"헬리오스터디\"라는 교육 프로젝트(및 축제 출품작)의 주제였습니다.",
-    "This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!": "이 항성계는 보라색 선과 연한 파란색 태양으로 구분할 수 있습니다. 여러분을 탐험으로 초대합니다!",
+    "This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!": "이 항성계는 보라색 선과 연한 파란색 태양으로 구분할 수 있습니다. 여러분을 탐험으로 초대합니다!",
 
     //students_intro
     "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!": "벨투라: 이번 프로젝트는 꽤 재미있을 것 같아! 모의 항성계를 설계할 수 있다는 건 아주 멋진 기회야, 특히 다음 축제에서 선보일 수 있다는 점을 생각하면 더더욱!",
@@ -225,7 +225,8 @@
 
     //platform_computer
     "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)": "경고: <![CDATA[<color=red>]]>경고:<![CDATA[</color>]]> 실험적 천체 모형이 현재 활성화되어 있습니다.\r\n장치를 사용하여 발생하는 모든 손해에 대한 책임은 전적으로 사용자에게 있습니다. (모든 걸 망가뜨릴 수 있습니다.)",
-
+    "Space gear can now be re-equipped.": "이제 우주 장비를 착용하셔도 됩니다.",
+    
     //sand_planet_name
     "BETULA: Daucus, have you decided on a name for this planet yet?": "벨투라: 다우커스, 이 행성의 이름은 뭐로 할지 정했어?",
     "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.": "다우커스: <![CDATA[<color=orange>다우커스</color>]]>.",
@@ -236,7 +237,7 @@
     //water_planet_name
     "BETULA: I've decided to name this planet <![CDATA[<color=orange>Glacial Abyss!</color>]]>!": "벨투라: 이 행성의 이름을 <![CDATA[<color=orange>빙하 심연!</color>]]>으로 정했어!",
     "ADONSONIA: I like it! Clearly you do as well, if your enthusiasm is anything to go by.": "아도소니아: 마음에 드네! 느낌표를 보니까 너도 확실히 그렇게 생각하는 것 같아.",
-    "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.": "벨투라: 확실히 말할게. 첫 번째 느낌표는 사실 <![CDATA[<color=orange>빙하 심연!</color>]]>이라는 이름의 일부야.",
+    "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.": "벨투라: 확실히 말할게. 사실 첫 번째 느낌표는 <![CDATA[<color=orange>빙하 심연!</color>]]>이라는 이름의 일부야.",
     "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.": "알누스: 적어도, 이 프로젝트에 선정된 행성 이름들 중에서 최악은 아니네.",
 
     //student_names
@@ -289,7 +290,7 @@
 
     //middle_orbit_req
     "DAUCUS: Has anyone had any ideas for our last requirement? We are approaching the deadline, so we should keep it simple.": "다우커스: 마지막 조건에 대해 누구 아이디어 있는 노마이? 마감일이 다가오고 있으니까 간단하게 정하는 게 좋을 거 같아.",
-    "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.": "아도소니아: 아직 특정 행성에 대해 궤도 제한을 두진 않았어. 아마 그런 쪽으로 조건을 정해볼 수도 있겠네.",
+    "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.": "아도소니아: 아직 특정 행성에 대해서 궤도 제한을 두진 않았어. 아마 그런 쪽으로 조건을 정해볼 수도 있겠네.",
     "ALNUS: It seems sensible to say that mass would gather towards the center of a naturally-occurring star system. Based on that, we could avoid leaving the largest planet in the farthest orbit.": "알누스: 자연 발생하는 항성계에서는 질량이 중심 쪽으로 모이는 게 당연하니까, 그걸 토대로 가장 큰 행성을 가장 먼 궤도에 두지 않는 걸 조건으로 삼는 게 합리적일 것 같아.",
     "BETULA: That is a fair idea! I'll inform Oryza of that being our final requirement.": "벨투라: 좋은 생각이야! 선생님께 이게 최종 조건이라고 알려드릴게.",
 
@@ -325,10 +326,10 @@
 
     //walker_jam5_planet3
     "Buried Structure": "매장된 구조물",
-    "A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "다우커스의 적도에 있는 건물. 건물 대부분이 모래로 묻혀 있다. 아도소니아라는 이름의 노마이는 모래를 다른 곳으로 옮길 수 있는지에 대한 이론을 세웠다.",
+    "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "다우커스의 남에 있는 건물. 건물 대부분이 모래로 묻혀 있다. 아도소니아라는 이름의 노마이는 모래를 다른 곳으로 옮길 수 있는지에 대한 이론을 세웠다.",
     "Enclosed Structure": "밀폐된 건물",
     "I was able to access the rest of the structure by arriving via the warp receiver.": "워프 수신기를 통해 건물의 안으로 들어갈 수 있었다.",
-    "A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.": "다우커스의 적도에 있는 워프 수신기 주변에 지어진 건물. 아도소니아라는 이름의 노마이가 문을 만드는 것을 잊어버렸다.",
+    "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.": "다우커스의 적도에 있는 워프 수신기 주변에 지어진 건물. 건물 안으로 들어가기 위한 입구가 없다.",
 
     //walker_jam5_planet4
     "Subsurface Ocean": "지하 바다",
@@ -337,12 +338,12 @@
     "Undersea Warp Receiver": "해저 워프 수신기",
     "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.": " \"빙하 심연!\"의 적도 근처의 얼음 밑에 워프 수신기가 있다.",
     "Geysers": "간헐천",
-    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "노마이는 북극 근처의 \"빙하 심연!\"의 얼음 아래에 있는 간헐천을 발견했다. 알누스라는 이름의 노마이는 행성의 얼음이 녹아 행성의 지열 활동이 증가했다고 말했다.",
-    "There are geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "\"빙하 심연!\"의 북극 근처의 얼음 밑에는 간헐천이 있다. 간헐천의 물줄기가 행성 안으로 들어가는 걸 막고 있다. 알누스라는 노마이는 행성의 얼음이 녹으면서 지열 활동이 증가했다고 언급했다.",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "노마이는 북극 근처의 \"빙하 심연!\"의 얼음 아래에 있는 간헐천을 발견했다. 간헐천에서 나오는 물이 들어가는 걸 막고 있다. 알누스라는 이름의 노마이는 행성의 얼음이 녹아 행성의 지열 활동이 증가했다고 말했다.",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "노마이는 북극 근처의 \"빙하 심연!\"의 얼음 아래에 있는 간헐천을 발견했다. 간헐천의 물줄기가 행성 안으로 들어가는 걸 막고 있다. 알누스라는 노마이는 행성의 얼음이 녹으면서 지열 활동이 증가했다고 언급했다.",
     "Planetary Core Display": "행성 핵 전망대",
     "Abyssal Core": "심연의 핵",
     "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "\"빙하 심연!\"은 북극 근처의 간헐천들과 연결된 속이 빈 핵을 가지고 있다. 노마이 교사는 학생들이 행성의 중심부에서 무언가 보기를 원했다.",
-    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.": "\"빙하 심연!\"은 북극 근처의 간헐천들과 연결된 속이 빈 공간을 가지고 있다. 행성이 얼어붙은 상태에서 간헐천을 따라 내려가 핵에 도달할 수 있었다. 이곳에는 행성의 지층을 안전하게 관찰할 수 있는 전망대가 있다.",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet's core.": "\"빙하 심연!\"은 북극 근처의 간헐천들과 연결된 속이 빈 공간을 가지고 있다. 행성이 얼어붙은 상태에서 간헐천을 따라 내려가 핵에 도달할 수 있었다. 이곳에는 행성의 핵을 안전하게 관찰할 수 있는 전망대가 있다.",
     "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "행성의 중심부에 \"빙하 심연!\"에서 천체 모형 정거장까지의 워프 송신기가 있다.",
     "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.": "\"빙하 심연!\"의 중심부에 잠긴 문이 있다. 문 옆에 있는 노마이 컴퓨터는 모든 프로젝트 조건이 충족되지 않았다고 적혀있다.",
     "Core Orrery Warp Transmitter": "핵 전망대 워프 송신기",
@@ -366,7 +367,7 @@
     "First Requirement": "첫 번째 조건",
     "The first of 7 requirements that a Nomai project must meet.": "노마이 프로젝트가 충족해야 하는 7가지 조건 중 첫 번째 조건.",
     "By using another astral body's gravity to help me, I was able to reach the top of the tower.": "다른 행성의 중력을 이용해 탑의 꼭대기에 올라갈 수 있었다.",
-    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.": "첫 번째 조건은 행성 중 하나에 고체 상태의 얼음이 존재해야 한다는 것이다. 그러나 이 항성계의 태양은 매우 뜨거워서, 가장 먼 궤도에서조차도 물이 얼 수 없었다. 아도소니아라는 노마이는 가장 먼 궤도에서도 행성이 받는 열을 줄일 방법이 있을지 고민했다.",
+    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to while at the furthest orbit.": "첫 번째 조건은 행성 중 하나에 고체 상태의 얼음이 존재해야 한다는 것이다. 그러나 이 항성계의 태양은 매우 뜨거워서, 가장 먼 궤도에서조차도 물이 얼 수 없었다. 아도소니아라는 노마이는 가장 먼 궤도에서도 행성이 받는 열을 줄일 방법이 있을지 고민했다.",
    
     "Geothermal Activity": "지열 활동",
     "Second Requirement": "두 번째 조건",
