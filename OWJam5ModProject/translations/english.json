@@ -1,0 +1,421 @@
+{  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+  "DialogueDictionary": {
+    //adonsonia_intro
+    "Hello there!": "Hello there!",
+    "AAAAHHHH!!!!": "AAAAHHHH!!!!",
+    "WHAT!?!?!??": "WHAT!?!?!??",
+    "Ha! I'm sorry if I frightened you.": "Ha! I'm sorry if I frightened you.",
+    "I wondered why this old project was claiming to have been submitted again after all these years! I'm Adonsonia, one of the students who worked on this project a long time ago.": "I wondered why this old project was claiming to have been submitted again after all these years! I'm Adonsonia, one of the students who worked on this project a long time ago.",
+    "You don't look like a Nomai, but you must be quite clever to have gotten this system into the correct configuration after all of the time it has spent drifting.": "You don't look like a Nomai, but you must be quite clever to have gotten this system into the correct configuration after all of the time it has spent drifting.",
+    "Effort like that is certainly worthy of some reward. How about this; I have some free time from all of my teaching duties right now! If you ask me any questions, I'll do my best to answer them.": "Effort like that is certainly worthy of some reward. How about this; I have some free time from all of my teaching duties right now! If you ask me any questions, I'll do my best to answer them.",
+
+    //adonsonia_outro
+    "So, was there anything you wanted to ask me about?": "So, was there anything you wanted to ask me about?",
+    "How are we able to understand each other?": "How are we able to understand each other?",
+    "What happened to Alnus after the project?": "What happened to Alnus after the project?",
+    "What happened to Betula after the project?": "What happened to Betula after the project?",
+    "What happened to Daucus after the project?": "What happened to Daucus after the project?",
+    "What happened to you after the project?": "What happened to you after the project?",
+    "What's the deal with the device back on the invitation platform?": "What's the deal with the device back on the invitation platform?",
+    "Can I <![CDATA[<color=orange>pretty please</color>]]> know how to activate that device?": "Can I <![CDATA[<color=orange>pretty please</color>]]> know how to activate that device?",
+    "I don't have any more questions for now.": "I don't have any more questions for now.",
+    "That would be due to the universal translator I have on my person. It's able to quickly discern language patterns, allowing us to understand each other with minimal issues. We have Betula to thank for that — it's actually her invention!": "That would be due to the universal translator I have on my person. It's able to quickly discern language patterns, allowing us to understand each other with minimal issues. We have Betula to thank for that — it's actually her invention!",
+    "Ah, that fascicle of nerves. Although his anxiety is still there, he's become much better at managing it. He's also grown more able to take a joke, much to my relief.": "Ah, that fascicle of nerves. Although his anxiety is still there, he's become much better at managing it. He's also grown more able to take a joke, much to my relief.",
+    "As you might imagine, he had a very good academic career after our project. After completing his education he moved on to become one of our clan's head researchers. He's used his knowledge of star systems particularly well, helping our clan identify systems likely to harbor life.": "As you might imagine, he had a very good academic career after our project. After completing his education he moved on to become one of our clan's head researchers. He's used his knowledge of star systems particularly well, helping our clan identify systems likely to harbor life.",
+    "Through his efforts our clan has met friends of many different forms, and had quite the cultural exchange. This was quite useful in the development of the universal translator I'm using to speak to you now.": "Through his efforts our clan has met friends of many different forms, and had quite the cultural exchange. This was quite useful in the development of the universal translator I'm using to speak to you now.",
+    "I believe he's currently using his skills to identify stars that are still stable enough to support our people, as well as others. He's also made himself useful to rescue efforts, identifying star systems simultaneously likely to have life and likely to be annihilated soon.": "I believe he's currently using his skills to identify stars that are still stable enough to support our people, as well as others. He's also made himself useful to rescue efforts, identifying star systems simultaneously likely to have life and likely to be annihilated soon.",
+    "Betula actually went on to study alien cultures and languages. She was always more interested in social affairs than strictly academic ones, so it was a type of work that uniquely suited her.": "Betula actually went on to study alien cultures and languages. She was always more interested in social affairs than strictly academic ones, so it was a type of work that uniquely suited her.",
+    "She has been the first Nomai to contact a number of different alien species, and used the knowledge gained to develop the universal translator that allows us to communicate now.": "She has been the first Nomai to contact a number of different alien species, and used the knowledge gained to develop the universal translator that allows us to communicate now.",
+    "She's even caused some members of other species to join Nomai clans. Due to her efforts, approximately half of our clan is actually composed of non-Nomai species. Their insights have led to some remarkable technological breakthroughs.": "She's even caused some members of other species to join Nomai clans. Due to her efforts, approximately half of our clan is actually composed of non-Nomai species. Their insights have led to some remarkable technological breakthroughs.",
+    "Nowadays she uses her social skills to help people of varying cultures cooperate, which is especially important given the dwindling resources of our universe. It's a bit of a shame, I imagine she would have been quite thrilled to speak with you if she were here.": "Nowadays she uses her social skills to help people of varying cultures cooperate, which is especially important given the dwindling resources of our universe. It's a bit of a shame, I imagine she would have been quite thrilled to speak with you if she were here.",
+    "Ha! Daucus always says he was never able to beat that lazy streak of his, although I'm honestly not convinced that he ever tried. The only thing he was ever willing to put real effort into was hacking systems.": "Ha! Daucus always says he was never able to beat that lazy streak of his, although I'm honestly not convinced that he ever tried. The only thing he was ever willing to put real effort into was hacking systems.",
+    "Fortunately, he was able to use that to find his place refurbishing and repurposing old technology. He's been able to revive a number of machines that, by all accounts, never should have been able to work again.": "Fortunately, he was able to use that to find his place refurbishing and repurposing old technology. He's been able to revive a number of machines that, by all accounts, never should have been able to work again.",
+    "He's actually expanded the number of ships available to our people quite substantially. This has allowed our clan to contact many more species than would otherwise be possible. I believe that other clans even bring him derelict vessels from time to time in the hopes that he can repair them.": "He's actually expanded the number of ships available to our people quite substantially. This has allowed our clan to contact many more species than would otherwise be possible. I believe that other clans even bring him derelict vessels from time to time in the hopes that he can repair them.",
+    "I'm unsure how he feels about it, but he's recently been put in charge of a substantially sized team. With the current state of the universe, it's more important than ever to keep equipment operational for as long as possible. He's actually become quite an important member of our clan.": "I'm unsure how he feels about it, but he's recently been put in charge of a substantially sized team. With the current state of the universe, it's more important than ever to keep equipment operational for as long as possible. He's actually become quite an important member of our clan.",
+    "As you may have guessed, I never took my studies particularly seriously as a child. In school, I was much more concerned with playing pranks on Alnus and socializing with Betula.": "As you may have guessed, I never took my studies particularly seriously as a child. In school, I was much more concerned with playing pranks on Alnus and socializing with Betula.",
+    "It was actually the influence of our old teacher, Oryza, that led to me becoming a teacher. She was able to convince me to put more effort into my studies, something that I am now very thankful for whenever a student comes to me with questions.": "It was actually the influence of our old teacher, Oryza, that led to me becoming a teacher. She was able to convince me to put more effort into my studies, something that I am now very thankful for whenever a student comes to me with questions.",
+    "Outside of standard teaching duties, I've also been aiding in communications between us Nomai and other species. Some other teachers and I have even created an inter-species teacher association to aid in the spread of different people's knowledge.": "Outside of standard teaching duties, I've also been aiding in communications between us Nomai and other species. Some other teachers and I have even created an inter-species teacher association to aid in the spread of different people's knowledge.",
+    "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!": "Lately things have been a bit more difficult, what with the universe coming to an end and all. The students are actually doing fairly well emotionally speaking, but you would not believe the number of them who try to make existential arguments for missing assignments!",
+    "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.": "Device... Ah, that old thing! That's an old prototype for the orrery used in our project. We found it lying around at some point during our work, and decided to see if we could get into some mischief with it.",
+    "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.": "Daucus was able to hack it to become responsive if certain conditions were met, so that we could use it without the adults becoming aware of its functional state.",
+    "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.": "...Unfortunately, it proved to be highly unstable and dangerous. I really shouldn't tell you how to activate it. I have learned some responsibility over the years, after all.",
+    "...Oh, alright, but don't claim that I didn't warn you. You should exercise extreme caution around that device — it's quite possible for it to <![CDATA[<color=red>break things</color>]]> and not function entirely as expected.": "...Oh, alright, but don't claim that I didn't warn you. You should exercise extreme caution around that device — it's quite possible for it to <![CDATA[<color=red>break things</color>]]> and not function entirely as expected.",
+    "To activate it, all of the orbs on the invitation platform need to be placed at roughly the same distance from the center. Additionally, it won't activate unless it is approached by somebody who is not wearing any space gear.": "To activate it, all of the orbs on the invitation platform need to be placed at roughly the same distance from the center. Additionally, it won't activate unless it is approached by somebody who is not wearing any space gear.",
+    "As for what exactly it does... I suppose I'll leave you to figure that out for yourself! Have fun, and be careful!": "As for what exactly it does... I suppose I'll leave you to figure that out for yourself! Have fun, and be careful!",
+    "Understood. I'll be here for some time, so feel free to come back if you change your mind.": "Understood. I'll be here for some time, so feel free to come back if you change your mind.",
+
+    //ernesto
+    "Hey it's me Ernesto.": "Hey it's me Ernesto.",
+    "The stars have gathered around this point, and I have been formed.": "The stars have gathered around this point, and I have been formed.",
+    "Take witness, and know that I am forever; and so too is my wisdom.": "Take witness, and know that I am forever; and so too is my wisdom.",
+    "I will bestow a gift upon you: you may ask me a single question, and I will answer it.": "I will bestow a gift upon you: you may ask me a single question, and I will answer it.",
+    "I am incredibly generous. You may ask another question.": "I am incredibly generous. You may ask another question.",
+    "What question will you be asking?": "What question will you be asking?",
+    "Wait, aren't you a mathematical construct? You aren't real!": "Wait, aren't you a mathematical construct? You aren't real!",
+    "What is the meaning of the universe?": "What is the meaning of the universe?",
+    "Why am I very slowly drifting away from you?": "Why am I very slowly drifting away from you?",
+    "I once found an artificial ring world inhabited by a species whose language I could not translate. What did they call themselves?": "I once found an artificial ring world inhabited by a species whose language I could not translate. What did they call themselves?",
+    "I once saw a slide reel showing an alien resting at a green campfire, before being engulfed in a bright light. What caused this?": "I once saw a slide reel showing an alien resting at a green campfire, before being engulfed in a bright light. What caused this?",
+    "Who was the winner of Outer Wilds Mod Jam 5?": "Who was the winner of Outer Wilds Mod Jam 5?",
+    "Why in the world would the Nomai have candy wrappers? That is entirely against their philosophy.": "Why in the world would the Nomai have candy wrappers? That is entirely against their philosophy.",
+    "No, YOU aren't real.": "No, YOU aren't real.",
+    "The meaning of the universe? It's right there in the name.": "The meaning of the universe? It's right there in the name.",
+    "E.R.N.E.S.T.O.": "E.R.N.E.S.T.O.",
+    "E: Enlightenment, in truth, comes only from Ernesto.": "E: Enlightenment, in truth, comes only from Ernesto.",
+    "R: Roast marsh mallow!": "R: Roast marsh mallow!",
+    "N: NOTHING beats an epic gamer moment!": "N: NOTHING beats an epic gamer moment!",
+    "E: Eheheheeeeee": "E: Eheheheeeeee",
+    "S: Save your mind and body from the sphere of ice; for as long as you live, it will not show mercy.": "S: Save your mind and body from the sphere of ice; for as long as you live, it will not show mercy.",
+    "T: Text for ernesto universe dialogue goes here": "T: Text for ernesto universe dialogue goes here",
+    "O: Oh... that's groundsize. That's groundsize of my supermassive planet.": "O: Oh... that's groundsize. That's groundsize of my supermassive planet.",
+    "It's uh. It's because my wisdom is too powerful. Yeah": "It's uh. It's because my wisdom is too powerful. Yeah",
+    "Just like don't worry about it bro": "Just like don't worry about it bro",
+    "Ah, the inhabitants of the ring world. You would like to know the name of their collective people.": "Ah, the inhabitants of the ring world. You would like to know the name of their collective people.",
+    "They called themselves... The \"Joemai\".": "They called themselves... The \"Joemai\".",
+    "It's a shame that you couldn't understand their dialect. While much of their informaton was communicated visually, their writing was like nothing I had ever seen.": "It's a shame that you couldn't understand their dialect. While much of their informaton was communicated visually, their writing was like nothing I had ever seen.",
+    "If you don't mind, I'd like to share a truly profound piece of the Joemai's poetry. It made a significant mark on my eternal life:": "If you don't mind, I'd like to share a truly profound piece of the Joemai's poetry. It made a significant mark on my eternal life:",
+    "\"I hope your bones shatter into a fine powder\"": "\"I hope your bones shatter into a fine powder\"",
+    "He farted": "He farted",
+    "Team gloopus won the fifth Outer Wilds mod jam. They made the \"one million Ernestos on an otherwise empty new horizons planet config\" mod.": "Team gloopus won the fifth Outer Wilds mod jam. They made the \"one million Ernestos on an otherwise empty new horizons planet config\" mod.",
+    "The mod boasted a whopping thirty-six thousand hours of content, split up into fifteen chapters.": "The mod boasted a whopping thirty-six thousand hours of content, split up into fifteen chapters.",
+    "It took ten minutes for the mod to make two of the three judges begin to sob uncontrollably. The third judge simply left the room and began to reflect on life.": "It took ten minutes for the mod to make two of the three judges begin to sob uncontrollably. The third judge simply left the room and began to reflect on life.",
+    "It won because it had a script in it that removed every other jam entry. The judges have not noticed, as they are still playing the mod to this day.": "It won because it had a script in it that removed every other jam entry. The judges have not noticed, as they are still playing the mod to this day.",
+    "Yeah that's a fair question.": "Yeah that's a fair question.",
+    "It was funny. Idk": "It was funny. Idk",
+
+    //convergence_explanation
+    "BETULA: This structure is <![CDATA[<i>very</i>]]> impressive, although I don't recall us ever discussing it or its construction.": "BETULA: This structure is <![CDATA[<i>very</i>]]> impressive, although I don't recall us ever discussing it or its construction.",
+    "ADONSONIA: This is just a small puzzle that I made in my spare time. It uses those old radios that Oryza gave us for detecting signals. If anyone manages to solve it, the computer over there will activate and display its information.": "ADONSONIA: This is just a small puzzle that I made in my spare time. It uses those old radios that Oryza gave us for detecting signals. If anyone manages to solve it, the computer over there will activate and display its information.",
+    "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?",
+    "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.",
+    "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.",
+    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Glacial Abyss!</color>]]>. I'm sure that you understand!": "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Glacial Abyss!</color>]]>. I'm sure that you understand!",
+    "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!",
+    "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.",
+
+    //geyser_hint
+    "BETULA: With access to the planet's true surface, I noticed some interesting looking geysers located near the north pole.": "BETULA: With access to the planet's true surface, I noticed some interesting looking geysers located near the north pole.",
+    "ALNUS: Our teacher had mentioned those. Apparently, the geysers lead all the way to the hollow core of this planet. She says that there's something down there that she wants us to see.": "ALNUS: Our teacher had mentioned those. Apparently, the geysers lead all the way to the hollow core of this planet. She says that there's something down there that she wants us to see.",
+    "ADONSONIA: I've already tried jumping into one, but the flow of the geyser forced me back to the surface.": "ADONSONIA: I've already tried jumping into one, but the flow of the geyser forced me back to the surface.",
+    "ALNUS: Thawing the planet seems to have dramatically increased its level of geothermal activity. We won't be able to explore the geysers until we find a way to subdue it again.": "ALNUS: Thawing the planet seems to have dramatically increased its level of geothermal activity. We won't be able to explore the geysers until we find a way to subdue it again.",
+    "ADONSONIA: Once we do that, we'll be free to go down the geysers and explore the core!": "ADONSONIA: Once we do that, we'll be free to go down the geysers and explore the core!",
+    "BETULA: That sounds quite dangerous! Did you sustain any injuries?": "BETULA: That sounds quite dangerous! Did you sustain any injuries?",
+    "ADONSONIA: Not to worry, Betula, I... wait... OH NO! THE FLESH PARASITES FROM THE CORE! THEY'RE TAKING CONTROL!": "ADONSONIA: Not to worry, Betula, I... wait... OH NO! THE FLESH PARASITES FROM THE CORE! THEY'RE TAKING CONTROL!",
+    "BETULA: Good to hear that you're alright.": "BETULA: Good to hear that you're alright.",
+
+    //ghost_matter_hint
+    "ALNUS: I wanted to warn everyone that, according to our teacher, a highly hazardous and invisible substance has been spilled in this cave. Please avoid it!": "ALNUS: I wanted to warn everyone that, according to our teacher, a highly hazardous and invisible substance has been spilled in this cave. Please avoid it!",
+    "ALNUS: Fortunately, it seems that the substance can be temporarily neutralized with water. If anyone accidentally touches it, we can use that to our advantage.": "ALNUS: Fortunately, it seems that the substance can be temporarily neutralized with water. If anyone accidentally touches it, we can use that to our advantage.",
+    "ADONSONIA: What an interesting property! I'm tempted to touch it to see how it feels.": "ADONSONIA: What an interesting property! I'm tempted to touch it to see how it feels.",
+    "BETULA: I don't believe that to be advisable, Adonsonia. Someone could be seriously hurt trying to do that.": "BETULA: I don't believe that to be advisable, Adonsonia. Someone could be seriously hurt trying to do that.",
+    "BETULA: With this substance and this planet's gravity, <![CDATA[<color=orange>The Big One</color>]]> may be the most dangerous planet in this system!": "BETULA: With this substance and this planet's gravity, <![CDATA[<color=orange>The Big One</color>]]> may be the most dangerous planet in this system!",
+
+    //missing_transmitter_hint
+    "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.": "BETULA: Oryza said that each planet would have a warp transmitter on its north pole that leads to the orrery station, but I don't see one here.",
+    "ALNUS: I suppose she only said that <![CDATA[<i>most</i>]]> of the transmitters would be on the north pole. Perhaps this one is somewhere else.": "ALNUS: I suppose she only said that <![CDATA[<i>most</i>]]> of the transmitters would be on the north pole. Perhaps this one is somewhere else.",
+    "DAUCUS: That's irritating. Lack of access to this planet's transmitter will make travel much more difficult.": "DAUCUS: That's irritating. Lack of access to this planet's transmitter will make travel much more difficult.",
+
+    //multi_receiver_hint
+    "ADONSONIA: I'm really sorry everyone, but I may have accidentally dropped the materials for the other transmitter into the star during transport.": "ADONSONIA: I'm really sorry everyone, but I may have accidentally dropped the materials for the other transmitter into the star during transport.",
+    "ALNUS: Adonsonia! That was our last warp core! I don't know why you feel the need to constantly sabotage us! Do you just dislike us all?": "ALNUS: Adonsonia! That was our last warp core! I don't know why you feel the need to constantly sabotage us! Do you just dislike us all?",
+    "ADONSONIA: I didn't mean to drop it, it just happened! I know I do more pranks than you would like, but I'd never purposefully cause actual harm to the project!": "ADONSONIA: I didn't mean to drop it, it just happened! I know I do more pranks than you would like, but I'd never purposefully cause actual harm to the project!",
+    "ALNUS: Even if we choose to believe you, that doesn't change the fact that we're now out of warp cores. Without another one we can't make any more transmitters, which means we can only use one of the receivers.": "ALNUS: Even if we choose to believe you, that doesn't change the fact that we're now out of warp cores. Without another one we can't make any more transmitters, which means we can only use one of the receivers.",
+    "DAUCUS: Don't worry about that. I've gone ahead and hacked the transmitter to work with either receiver, depending on which one lines up. That way, we won't need a second transmitter.": "DAUCUS: Don't worry about that. I've gone ahead and hacked the transmitter to work with either receiver, depending on which one lines up. That way, we won't need a second transmitter.",
+    "ADONSONIA: Thank you, Daucus! I am really sorry about incinerating those components, but I'm glad you were able to clean up my mess a bit.": "ADONSONIA: Thank you, Daucus! I am really sorry about incinerating those components, but I'm glad you were able to clean up my mess a bit.",
+    "BETULA: We know, Adonsonia. Alnus is just upset. Everyone makes mistakes.": "BETULA: We know, Adonsonia. Alnus is just upset. Everyone makes mistakes.",
+    "ALNUS: Really? That's very helpful, Daucus! We were really relying on those warp pads, so it's good to have them all usable.": "ALNUS: Really? That's very helpful, Daucus! We were really relying on those warp pads, so it's good to have them all usable.",
+
+    //quantum_hint
+    "ALNUS: I found this interesting looking stone on this planet, so I decided to place it in this building.": "ALNUS: I found this interesting looking stone on this planet, so I decided to place it in this building.",
+    "ALNUS: I had just put the stone here, Adonsonia. How did you already steal it?": "ALNUS: I had just put the stone here, Adonsonia. How did you already steal it?",
+    "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.": "ADONSONIA: I wish I could achieve such a feat, but that wasn't me! I recall an old study on this kind of stone, which concluded that they move when unobserved.",
+    "BETULA: That is quite an interesting trait! Do you have any idea where it may go when it's not here?": "BETULA: That is quite an interesting trait! Do you have any idea where it may go when it's not here?",
+    "ADONSONIA: I'm not sure, to be honest. I don't believe I've seen it anywhere besides here.": "ADONSONIA: I'm not sure, to be honest. I don't believe I've seen it anywhere besides here.",
+    "ALNUS: I would accuse you of lying if the stone hadn't appeared behind me moments ago (nearly scaring my lower garments off). Unfortunately, it took a recording of mine with it, and it doesn't seem to have brought it back.": "ALNUS: I would accuse you of lying if the stone hadn't appeared behind me moments ago (nearly scaring my lower garments off). Unfortunately, it took a recording of mine with it, and it doesn't seem to have brought it back.",
+
+    //sand_structure_hint
+    "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.": "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.",
+    "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!",
+    "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.",
+    "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.": "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.",
+    "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.": "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.",
+
+    //teleporter_nodoor_hint
+    "ALNUS: Who constructed this building around the warp receiver? I know we wanted one, but I can't seem to locate the door.": "ALNUS: Who constructed this building around the warp receiver? I know we wanted one, but I can't seem to locate the door.",
+    "ADONSONIA: Would you look at that? It seems that I <![CDATA[<i>unintentionally forgot</i>]]> to put a door on the building. <![CDATA[<i>100% accidental</i>]]>, I can assure you.": "ADONSONIA: Would you look at that? It seems that I <![CDATA[<i>unintentionally forgot</i>]]> to put a door on the building. <![CDATA[<i>100% accidental</i>]]>, I can assure you.",
+    "ALNUS: Adonsonia, this is no time for your pranks! I left important materials and documents near the warp pad that I can no longer access! How do I get in?!": "ALNUS: Adonsonia, this is no time for your pranks! I left important materials and documents near the warp pad that I can no longer access! How do I get in?!",
+    "ADONSONIA: Who can say? Maybe there's no way into the building at all. I suppose you'll just need to figure it out.": "ADONSONIA: Who can say? Maybe there's no way into the building at all. I suppose you'll just need to figure it out.",
+    "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)": "ALNUS: Do you really expect me to believe that you don't know any way in when I can see your salt-treat wrappers inside? (And might I remind you just how rude it is to leave non-disposable waste on the floor!!)",
+    "BETULA: Alnus, I'm sure that there's some way to get into the building, don't worry.": "BETULA: Alnus, I'm sure that there's some way to get into the building, don't worry.",
+
+    //tower_ascension_hint
+    "ALNUS: I thought that the size of this planet deserved a monument of fitting stature, so I constructed this tower here!": "ALNUS: I thought that the size of this planet deserved a monument of fitting stature, so I constructed this tower here!",
+    "BETULA: This is lovely, Alnus! I look forward to seeing the top chamber of the tower once you install a tractor beam to get up there!": "BETULA: This is lovely, Alnus! I look forward to seeing the top chamber of the tower once you install a tractor beam to get up there!",
+    "ALNUS: A tractor beam? We don't have any means by which to make a tractor beam. We weren't given the right materials.": "ALNUS: A tractor beam? We don't have any means by which to make a tractor beam. We weren't given the right materials.",
+    "BETULA: Then how do you intend for us to get up there? The gravity of this planet is far too strong for a thrustpack to give the necessary height.": "BETULA: Then how do you intend for us to get up there? The gravity of this planet is far too strong for a thrustpack to give the necessary height.",
+    "ALNUS: ...I left my lunch up there...": "ALNUS: ...I left my lunch up there...",
+    "DAUCUS: Hopefully we can find a way to get up there. Redesigning this whole structure would be torment.": "DAUCUS: Hopefully we can find a way to get up there. Redesigning this whole structure would be torment.",
+    "DAUCUS: I'll admit that this is pretty impressive, especially considering how strong the gravity of this planet is.": "DAUCUS: I'll admit that this is pretty impressive, especially considering how strong the gravity of this planet is.",
+    "ADONSONIA: Ha! Intentional or not, that's a good prank. I don't know if I could have done better myself!": "ADONSONIA: Ha! Intentional or not, that's a good prank. I don't know if I could have done better myself!",
+
+    //under_ice_hint
+    "ADONSONIA: I'm disappointed that this planet is so unremarkable. We can't even make it more interesting ourselves, since the ice is simply too unstable to build on.": "ADONSONIA: I'm disappointed that this planet is so unremarkable. We can't even make it more interesting ourselves, since the ice is simply too unstable to build on.",
+    "BETULA: I must agree. There really isn't much on this planet that we can work with.": "BETULA: I must agree. There really isn't much on this planet that we can work with.",
+    "ALNUS: Subsurface scans indicate that the ice is hollow and that the planet possesses an ocean below it. If we could gain access to the area below the ice, we may be able to create structures.": "ALNUS: Subsurface scans indicate that the ice is hollow and that the planet possesses an ocean below it. If we could gain access to the area below the ice, we may be able to create structures.",
+    "ADONSONIA: That would be ideal, because this plain planet is currently my least favorite.": "ADONSONIA: That would be ideal, because this plain planet is currently my least favorite.",
+
+    //platform_invitation
+    "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.": "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.",
+    "This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!": "This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!",
+
+    //students_intro
+    "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!": "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!",
+    "ALNUS: Fun? Betula, our next school project is going to be shown at a <![CDATA[<i>festival</i>]]>. If we mess it up even slightly, we could turn our entire clan into the posterior of every joke for the next century!": "ALNUS: Fun? Betula, our next school project is going to be shown at a <![CDATA[<i>festival</i>]]>. If we mess it up even slightly, we could turn our entire clan into the posterior of every joke for the next century!",
+    "ADONSONIA: Alnus, I doubt that our project being imperfect will affect the reputation of our clan. Everyone understands that we're still students, after all.": "ADONSONIA: Alnus, I doubt that our project being imperfect will affect the reputation of our clan. Everyone understands that we're still students, after all.",
+    "ALNUS: A festival entry is no small matter. We need to make sure that we do this right.": "ALNUS: A festival entry is no small matter. We need to make sure that we do this right.",
+    "BETULA: Well, regardless of what stakes may or may not exist, we won't be able to do anything until we get down onto the planets and survey them, so I think that should be our next course of action.": "BETULA: Well, regardless of what stakes may or may not exist, we won't be able to do anything until we get down onto the planets and survey them, so I think that should be our next course of action.",
+    "DAUCUS: Ah, I see that it's going to be that kind of project. In that case, just let me know what you need me to do, and I'll (maybe) do it.": "DAUCUS: Ah, I see that it's going to be that kind of project. In that case, just let me know what you need me to do, and I'll (maybe) do it.",
+
+    //teacher_intro_recording
+    "ORYZA: Hello, students! As I mentioned in class the other day, our clan is hoping for you all to take part in our entry for the upcoming festival. Welcome to our entry!": "ORYZA: Hello, students! As I mentioned in class the other day, our clan is hoping for you all to take part in our entry for the upcoming festival. Welcome to our entry!",
+    "ORYZA: We've decided to focus on education for this festival, which is where you all are going to come in! This entire star system is actually an educational device made to help students like yourselves understand how such a system works.": "ORYZA: We've decided to focus on education for this festival, which is where you all are going to come in! This entire star system is actually an educational device made to help students like yourselves understand how such a system works.",
+    "ORYZA: As you can see below you, a number of different planets have been prepared for you to work with. You are free to build on and reshape these planets as you see fit, in order to create a system that demonstrates your understanding. Think of yourself as... architects!": "ORYZA: As you can see below you, a number of different planets have been prepared for you to work with. You are free to build on and reshape these planets as you see fit, in order to create a system that demonstrates your understanding. Think of yourself as... architects!",
+    "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!": "ORYZA: At the center of this platform is the orrery, a vital tool in your shaping of this system. While an orrery is normally a <![CDATA[<Color=orange>]]>miniature<![CDATA[</Color>]]> representation of a star system, it is more accurate in this case to say that the star system is a scaled-up representation of the orrery!",
+    "ORYZA: That may be a bit confusing, but I'll leave it to you all to discover what I mean by that! To make navigation easier in this system, we've placed warp transmitters on each planet (mostly on the north pole) that will bring you to and from this station.": "ORYZA: That may be a bit confusing, but I'll leave it to you all to discover what I mean by that! To make navigation easier in this system, we've placed warp transmitters on each planet (mostly on the north pole) that will bring you to and from this station.",
+    "ORYZA: You will have finite resources for this project, so make sure to use them with care. Other than that, have fun! You will all be given approximately two weeks to complete your project before it is submitted to the festival, so just make sure to have everything done by then.": "ORYZA: You will have finite resources for this project, so make sure to use them with care. Other than that, have fun! You will all be given approximately two weeks to complete your project before it is submitted to the festival, so just make sure to have everything done by then.",
+    "ORYZA: Oh, and one last thing. Since this is meant to demonstrate your understanding of star systems, I'll need you to tell me seven different requirements that your system will fulfill to be similar to a real star system. This is a <![CDATA[<i>graded</i>]]> project after all. Have fun, little ones!": "ORYZA: Oh, and one last thing. Since this is meant to demonstrate your understanding of star systems, I'll need you to tell me seven different requirements that your system will fulfill to be similar to a real star system. This is a <![CDATA[<i>graded</i>]]> project after all. Have fun, little ones!",
+
+    //big_planet_name
+    "ADONSONIA: This massive sphere shall be known as... <![CDATA[<color=orange>The Big One</color>]]>!": "ADONSONIA: This massive sphere shall be known as... <![CDATA[<color=orange>The Big One</color>]]>!",
+    "ALNUS: Is that all you could come up with?": "ALNUS: Is that all you could come up with?",
+    "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.": "ADONSONIA: Alnus, aren't you always telling me to be more practical? This is just my (totally, <![CDATA[<i>entirely</i>]]> earnest) attempt to appease you.",
+    "DAUCUS: That should be easy to remember, I suppose.": "DAUCUS: That should be easy to remember, I suppose.",
+
+    //crystal_planet_name
+    "ALNUS: I have decided that the name of this planet shall be... <![CDATA[<color=orange>Shattered Geode</color>]]>!": "ALNUS: I have decided that the name of this planet shall be... <![CDATA[<color=orange>Shattered Geode</color>]]>!",
+    "BETULA: That's an impressive name, Alnus!": "BETULA: That's an impressive name, Alnus!",
+    "ALNUS: This crystalline body is quite majestic. It only makes sense that it would receive a name of equal beauty!": "ALNUS: This crystalline body is quite majestic. It only makes sense that it would receive a name of equal beauty!",
+    "ADONSONIA: Truly, you possess <![CDATA[<i>incredible</i>]]> humility. It is such a relief that you are in <![CDATA[<i>no way</i>]]> being strange about the name of this planet.": "ADONSONIA: Truly, you possess <![CDATA[<i>incredible</i>]]> humility. It is such a relief that you are in <![CDATA[<i>no way</i>]]> being strange about the name of this planet.",
+
+    //ernesto_hint
+    "ORYZA: Imagine a point that exists at the average point of all star systems in this cluster.": "ORYZA: Imagine a point that exists at the average point of all star systems in this cluster.",
+    "ADONSONIA: A point? How would I imagine that? I propose that the average point is represented by our current class study specimen.": "ADONSONIA: A point? How would I imagine that? I propose that the average point is represented by our current class study specimen.",
+    "ORYZA: Very well. Imagine this average point to be represented by an anglerfish named Ernesto.": "ORYZA: Very well. Imagine this average point to be represented by an anglerfish named Ernesto.",
+    "ORYZA: Assume that Ernesto can only appear within the sphere of influence (which has a radius of 2500 meters) around <![CDATA[<Color=orange>]]>Heliocenter<![CDATA[</Color>]]>.": "ORYZA: Assume that Ernesto can only appear within the sphere of influence (which has a radius of 2500 meters) around <![CDATA[<Color=orange>]]>Heliocenter<![CDATA[</Color>]]>.",
+    "ADONSONIA: I never finished this mathematics problem that Oryza assigned to us. I don't like math, so I'm sending it to space. Farewell!": "ADONSONIA: I never finished this mathematics problem that Oryza assigned to us. I don't like math, so I'm sending it to space. Farewell!",
+    "ORYZA: If it means that you'll have more enthusiasm in this lesson, then we can make that addition.": "ORYZA: If it means that you'll have more enthusiasm in this lesson, then we can make that addition.",
+
+    //final_door_computer
+    "Project status: Requirements not met.": "Project status: Requirements not met.",
+
+    //house_flavor_recording
+    "DAUCUS: Why are we keeping our beds here of all places? It's quite cold and not terribly comfortable.": "DAUCUS: Why are we keeping our beds here of all places? It's quite cold and not terribly comfortable.",
+    "ADONSONIA: It isn't that cold, Daucus. Since when were you so sensitive to the cold?": "ADONSONIA: It isn't that cold, Daucus. Since when were you so sensitive to the cold?",
+    "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?": "ALNUS: I'm tempted to agree with Daucus. The orrery station has its own climate control — could we not just stay there?",
+    "BETULA: We're meant to care for this system. How can we properly care for it if we're unwilling to even sleep in it!?": "BETULA: We're meant to care for this system. How can we properly care for it if we're unwilling to even sleep in it!?",
+    "BETULA: Additionally, look above you! The view of the stars through the aurora is breathtaking!": "BETULA: Additionally, look above you! The view of the stars through the aurora is breathtaking!",
+    "ALNUS: I suppose that much at least is true.": "ALNUS: I suppose that much at least is true.",
+    "...": "...",
+    "ADONSONIA: We should build a campfire.": "ADONSONIA: We should build a campfire.",
+    "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.": "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.",
+    "ALNUS: That... doesn't sound unpleasant, if I'm being honest.": "ALNUS: That... doesn't sound unpleasant, if I'm being honest.",
+    "DAUCUS: I have some food we can roast if you all are willing to build the actual fire.": "DAUCUS: I have some food we can roast if you all are willing to build the actual fire.",
+    "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!": "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!",
+
+    //platform_computer
+    "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)",
+
+    //sand_planet_name
+    "BETULA: Daucus, have you decided on a name for this planet yet?": "BETULA: Daucus, have you decided on a name for this planet yet?",
+    "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.": "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.",
+    "ADONSONIA: I know you like easy solutions, but won't it be a <![CDATA[<i>bit</i>]]> easy to mix up you and the planet?": "ADONSONIA: I know you like easy solutions, but won't it be a <![CDATA[<i>bit</i>]]> easy to mix up you and the planet?",
+    "DAUCUS: Yes.": "DAUCUS: Yes.",
+    "ALNUS: ...I suppose that calling the planet <![CDATA[<color=orange>Daucus</color>]]> works as well as anything.": "ALNUS: ...I suppose that calling the planet <![CDATA[<color=orange>Daucus</color>]]> works as well as anything.",
+
+    //water_planet_name
+    "BETULA: I've decided to name this planet <![CDATA[<color=orange>Glacial Abyss!</color>]]>!": "BETULA: I've decided to name this planet <![CDATA[<color=orange>Glacial Abyss!</color>]]>!",
+    "ADONSONIA: I like it! Clearly you do as well, if your enthusiasm is anything to go by.": "ADONSONIA: I like it! Clearly you do as well, if your enthusiasm is anything to go by.",
+    "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.": "BETULA: I should clarify. The first exclamation is actually part of the name, <![CDATA[<color=orange>Glacial Abyss!</color>]]>.",
+    "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.": "ALNUS: All things considered, that is not the worst planet name that has been chosen for this project.",
+
+    //student_names
+    "Heliostudy team members": "Heliostudy team members",
+    "Alnus": "Alnus",
+    "Betula": "Betula",
+    "Daucus": "Daucus",
+    "Adonsonia": "Adonsonia",
+
+    //teacher_outro_recording
+    "ORYZA: If you're hearing this, that must mean that you all successfully completed the requirements you set out for yourselves. Congratulations!": "ORYZA: If you're hearing this, that must mean that you all successfully completed the requirements you set out for yourselves. Congratulations!",
+    "ORYZA: The task you were given was not an easy one. To complete it, you had to work very hard and work together. You've made your clan proud, and your project will demonstrate to all the other clans just how clever our little ones are.": "ORYZA: The task you were given was not an easy one. To complete it, you had to work very hard and work together. You've made your clan proud, and your project will demonstrate to all the other clans just how clever our little ones are.",
+    "ORYZA: Speaking of, there is one last thing you all must do before this system is ready to be presented at the festival.": "ORYZA: Speaking of, there is one last thing you all must do before this system is ready to be presented at the festival.",
+    "ORYZA: Seeing as this entry is as much about all of you as it is about this educational tool, it's only fitting that you all leave a personal mark on it. Towards that end, I request that you all make self portraits and display them in this room!": "ORYZA: Seeing as this entry is as much about all of you as it is about this educational tool, it's only fitting that you all leave a personal mark on it. Towards that end, I request that you all make self portraits and display them in this room!",
+    "ORYZA: We are all so proud of what you little ones have accomplished. We can't wait to see where your lives will take you in the future. For now though, it is about time that your journey led you all back to your homes and your warm beds!": "ORYZA: We are all so proud of what you little ones have accomplished. We can't wait to see where your lives will take you in the future. For now though, it is about time that your journey led you all back to your homes and your warm beds!",
+
+    //double_sand_req
+    "BETULA: Unburying this structure has me thinking; isn't it strange for only one planet in this system to have sand?": "BETULA: Unburying this structure has me thinking; isn't it strange for only one planet in this system to have sand?",
+    "ALNUS: I suppose so, but why are you mentioning this?": "ALNUS: I suppose so, but why are you mentioning this?",
+    "BETULA: I think it may be a good fourth requirement that multiple planets have sand.": "BETULA: I think it may be a good fourth requirement that multiple planets have sand.",
+    "DAUCUS: That sounds pretty easy to me.": "DAUCUS: That sounds pretty easy to me.",
+    "ALNUS: Agreed. We'll notify our teacher of that being our fourth requirement, then.": "ALNUS: Agreed. We'll notify our teacher of that being our fourth requirement, then.",
+    "ADONSONIA: If it keeps sand off of this planet and away from my pyramid, I'm all for it.": "ADONSONIA: If it keeps sand off of this planet and away from my pyramid, I'm all for it.",
+    "BETULA: I'm still very sorry about that.": "BETULA: I'm still very sorry about that.",
+
+    //dried_seabed_req_recorder
+    "ALNUS: I maintain that the discussion of your idea did not require us to come <![CDATA[<i>here</i>]]>.": "ALNUS: I maintain that the discussion of your idea did not require us to come <![CDATA[<i>here</i>]]>.",
+    "ADONSONIA: Don't worry. As long as there's water, we're fine. That brings me to what I actually wanted to discuss; I think our second requirement should be to have a planet with visible geothermal activity.": "ADONSONIA: Don't worry. As long as there's water, we're fine. That brings me to what I actually wanted to discuss; I think our second requirement should be to have a planet with visible geothermal activity.",
+    "BETULA: It is true that many star systems have planets with geothermal activity. What made you think of it?": "BETULA: It is true that many star systems have planets with geothermal activity. What made you think of it?",
+    "ADONSONIA: When I drained the water from <![CDATA[<color=orange>Glacial Abyss!</color>]]> to flood this cave, I saw how interesting all of the geysers looked when freed from the ice.": "ADONSONIA: When I drained the water from <![CDATA[<color=orange>Glacial Abyss!</color>]]> to flood this cave, I saw how interesting all of the geysers looked when freed from the ice.",
+    "DAUCUS: That sounds easy enough. Should we go ahead and send that requirement to Oryza?": "DAUCUS: That sounds easy enough. Should we go ahead and send that requirement to Oryza?",
+    "ALNUS: If it will get us out of this cave faster, then yes, certainly.": "ALNUS: If it will get us out of this cave faster, then yes, certainly.",
+
+    //final_location_req
+    "ORYZA: I thought that you little ones would be interested to see this: directly above you lies a safe way to view the layers of the planet's core!": "ORYZA: I thought that you little ones would be interested to see this: directly above you lies a safe way to view the layers of the planet's core!",
+    "ORYZA: Additionally, that door (at the end of the path behind you) is the final location that you will need to visit in order to submit your assignment. Think of it as your seventh requirement.": "ORYZA: Additionally, that door (at the end of the path behind you) is the final location that you will need to visit in order to submit your assignment. Think of it as your seventh requirement.",
+    "ALNUS: I do have a concern with this. I'm fairly certain that other requirements of ours will make it impossible for us to use the geysers and gain access to the core once we are ready to submit.": "ALNUS: I do have a concern with this. I'm fairly certain that other requirements of ours will make it impossible for us to use the geysers and gain access to the core once we are ready to submit.",
+    "ORYZA: That is an interesting situation. Unfortunately, I simply cannot allow you to change your requirements at this stage of the project, and you will need to be here to submit it. You all are very clever though, so I'm sure that you'll think of something!": "ORYZA: That is an interesting situation. Unfortunately, I simply cannot allow you to change your requirements at this stage of the project, and you will need to be here to submit it. You all are very clever though, so I'm sure that you'll think of something!",
+    "BETULA: It's quite interesting! I've never been to the core of a planet before!": "BETULA: It's quite interesting! I've never been to the core of a planet before!",
+    "DAUCUS: Does that mean that we only need six other requirements in total?": "DAUCUS: Does that mean that we only need six other requirements in total?",
+    "ORYZA: I suppose that it would, yes.": "ORYZA: I suppose that it would, yes.",
+
+    //frozen_planet_req
+    "ADONSONIA: An interesting idea for our first requirement could be that one of the planets must have a large amount of solid ice on it.": "ADONSONIA: An interesting idea for our first requirement could be that one of the planets must have a large amount of solid ice on it.",
+    "BETULA: That could be a good one! Star systems do tend to have a wide range of climates, so an icy body would demonstrate that.": "BETULA: That could be a good one! Star systems do tend to have a wide range of climates, so an icy body would demonstrate that.",
+    "ADONSONIA: Alright! I've gone ahead and let Oryza know that our first requirement will be to include a planet with ice.": "ADONSONIA: Alright! I've gone ahead and let Oryza know that our first requirement will be to include a planet with ice.",
+    "ALNUS: Wait, don't send that message yet! I was experimenting earlier, and there doesn't seem to be a way to re-freeze water in this system! Our star is too hot to allow water to re-freeze, even in the furthest orbit.": "ALNUS: Wait, don't send that message yet! I was experimenting earlier, and there doesn't seem to be a way to re-freeze water in this system! Our star is too hot to allow water to re-freeze, even in the furthest orbit.",
+    "ADONSONIA: That's inconvenient — I've already sent the message with the requirement. Is there some way that we can further reduce the heat reaching the planet?": "ADONSONIA: That's inconvenient — I've already sent the message with the requirement. Is there some way that we can further reduce the heat reaching the planet?",
+    "DAUCUS: Would it not be wise to wait for more people to give input before sending that message?": "DAUCUS: Would it not be wise to wait for more people to give input before sending that message?",
+
+    //middle_orbit_req
+    "DAUCUS: Has anyone had any ideas for our last requirement? We are approaching the deadline, so we should keep it simple.": "DAUCUS: Has anyone had any ideas for our last requirement? We are approaching the deadline, so we should keep it simple.",
+    "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.": "ADONSONIA: We haven't put any orbital restrictions on specific planets yet. Perhaps we could do something along those lines.",
+    "ALNUS: It seems sensible to say that mass would gather towards the center of a naturally-occurring star system. Based on that, we could avoid leaving the largest planet in the farthest orbit.": "ALNUS: It seems sensible to say that mass would gather towards the center of a naturally-occurring star system. Based on that, we could avoid leaving the largest planet in the farthest orbit.",
+    "BETULA: That is a fair idea! I'll inform Oryza of that being our final requirement.": "BETULA: That is a fair idea! I'll inform Oryza of that being our final requirement.",
+
+    //opposite_sides_req_computer
+    "ADONSONIA: If you're reading this, then you've bested my little convergence puzzle. Nicely done! Bravo! (I'm being earnest, I did not make this puzzle to be easy).": "ADONSONIA: If you're reading this, then you've bested my little convergence puzzle. Nicely done! Bravo! (I'm being earnest, I did not make this puzzle to be easy).",
+    "ADONSONIA: If you're wondering about the fifth requirement that I sent to Oryza, don't worry, it's not <![CDATA[<i>terribly</i>]]> bad. I figured that it didn't make sense for planets in the same orbit to be particularly close, so I said that any planets in the same orbit would be on opposite sides of the sun.": "ADONSONIA: If you're wondering about the fifth requirement that I sent to Oryza, don't worry, it's not <![CDATA[<i>terribly</i>]]> bad. I figured that it didn't make sense for planets in the same orbit to be particularly close, so I said that any planets in the same orbit would be on opposite sides of the sun.",
+    "ADONSONIA: Also, for the record, Daucus took part in my little prank too. Turns out that hacking all of the planet signals to make a harmony only costs a few salt-treats!": "ADONSONIA: Also, for the record, Daucus took part in my little prank too. Turns out that hacking all of the planet signals to make a harmony only costs a few salt-treats!",
+
+    //warp_alignment_req
+    "DAUCUS: A fairly simple requirement would be to have our transmitter line up with one of our receivers.": "DAUCUS: A fairly simple requirement would be to have our transmitter line up with one of our receivers.",
+    "ALNUS: I'm not clear on how that demonstrates an understanding of star systems.": "ALNUS: I'm not clear on how that demonstrates an understanding of star systems.",
+    "DAUCUS: We've placed a number of different buildings on these planets, so it's already not a representation of a fully natural system. Given that, lining up the warp pads would demonstrate that we're considering how transport would work in the system.": "DAUCUS: We've placed a number of different buildings on these planets, so it's already not a representation of a fully natural system. Given that, lining up the warp pads would demonstrate that we're considering how transport would work in the system.",
+    "DAUCUS: Given that we only have the one transmitter, I think we can get away with lining up with whichever warp pad is most convenient.": "DAUCUS: Given that we only have the one transmitter, I think we can get away with lining up with whichever warp pad is most convenient.",
+    "ALNUS: That is a fair justification. I'll let our teacher know that our third requirement will be an aligned transmitter-receiver pair.": "ALNUS: That is a fair justification. I'll let our teacher know that our third requirement will be an aligned transmitter-receiver pair.",
+    "ADONSONIA: That's not a terribly natural requirement, Daucus. I'm surprised to hear that you're going against the grain like that. I like it!": "ADONSONIA: That's not a terribly natural requirement, Daucus. I'm surprised to hear that you're going against the grain like that. I like it!",
+    "BETULA: I was skeptical at first, but I do like your reasoning. I vote that we make this a requirement.": "BETULA: I was skeptical at first, but I do like your reasoning. I vote that we make this a requirement."
+  },
+
+  "ShipLogDictionary": {
+    //walker_jam5_planet1
+    "Signal Detector": "Signal Detector",
+    "A Nomai named Adonsonia created a puzzle involving detecting signals. She locked the fifth requirement for a project behind solving it.": "A Nomai named Adonsonia created a puzzle involving detecting signals. She locked the fifth requirement for a project behind solving it.",
+    "Warp Transmitter": "Warp Transmitter",
+    "A warp transmitter on the equator of Shattered Geode. A Nomai named Daucus modified it to link with both receivers on the other planets in the system.": "A warp transmitter on the equator of Shattered Geode. A Nomai named Daucus modified it to link with both receivers on the other planets in the system.",
+    "Quantum Rock": "Quantum Rock",
+    "A quantum rock located in a structure facing the sun on Shattered Geode. There is a large skylight in the ceiling. A Nomai named Betula theorized about where the stone might go when it disappears. The stone took a recorder with it when it disappeared.": "A quantum rock located in a structure facing the sun on Shattered Geode. There is a large skylight in the ceiling. A Nomai named Betula theorized about where the stone might go when it disappears. The stone took a recorder with it when it disappeared.",
+
+    //walker_jam5_planet2
+    "Tall Tower": "Tall Tower",
+    "A tall tower on the surface of The Big One. The planet's gravity is far too strong to reach the top.": "A tall tower on the surface of The Big One. The planet's gravity is far too strong to reach the top.",
+    "Ghost Matter Cave": "Ghost Matter Cave",
+    "A cave on the south pole of The Big One. The cave mouth is filled with ghost matter. A Nomai named Alnus noted that ghost matter can be neutralized with water.": "A cave on the south pole of The Big One. The cave mouth is filled with ghost matter. A Nomai named Alnus noted that ghost matter can be neutralized with water.",
+
+    //walker_jam5_planet3
+    "Buried Structure": "Buried Structure",
+    "A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.",
+    "Enclosed Structure": "Enclosed Structure",
+    "I was able to access the rest of the structure by arriving via the warp receiver.": "I was able to access the rest of the structure by arriving via the warp receiver.",
+    "A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.": "A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.",
+
+    //walker_jam5_planet4
+    "Subsurface Ocean": "Subsurface Ocean",
+    "The ice on \"Glacial Abyss!\" is hollow and there is a subsurface ocean below it.": "The ice on \"Glacial Abyss!\" is hollow and there is a subsurface ocean below it.",
+    "The ice on \"Glacial Abyss!\" is hollow and I was able to reach the subsurface ocean below it.": "The ice on \"Glacial Abyss!\" is hollow and I was able to reach the subsurface ocean below it.",
+    "Undersea Warp Receiver": "Undersea Warp Receiver",
+    "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.": "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.",
+    "Geysers": "Geysers",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
+    "There are geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "There are geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
+    "Planetary Core Display": "Planetary Core Display",
+    "Abyssal Core": "Abyssal Core",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.": "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.",
+    "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.": "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.",
+    "Core Orrery Warp Transmitter": "Core Orrery Warp Transmitter",
+    "Missing Orrery Warp Transmitter": "Missing Orrery Warp Transmitter",
+    "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.": "The warp transmitter from \"Glacial Abyss!\" to the orrery station isn't on the north pole.",
+
+    //walker_jam5_platform
+    "Invitation Platform": "Invitation Platform",
+    "I found an invitation platform for a Nomai educational project and festival entry called the Heliostudy.": "I found an invitation platform for a Nomai educational project and festival entry called the Heliostudy.",
+    "The device on the platform can be activated by placing all of the orbs at approximately the same distance from the center. Additionally, the user must not be wearing any space gear. I was warned that the device is highly experimental and likely to break things.": "The device on the platform can be activated by placing all of the orbs at approximately the same distance from the center. Additionally, the user must not be wearing any space gear. I was warned that the device is highly experimental and likely to break things.",
+
+    //walker_jam5_station
+    "Orrery Station": "Orrery Station",
+    "Heliostudy": "Heliostudy",
+    "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.": "The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.",
+    "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.": "The station contains an orrery of the system. A Nomai named Oryza claims the system is a scaled-up representation of the orrery.",
+    "There are warp transmitters connected to the station on the north pole of most planets in the system.": "There are warp transmitters connected to the station on the north pole of most planets in the system.",
+    "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.": "A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.",
+    "Frozen Planet": "Frozen Planet",
+    "First Requirement": "First Requirement",
+    "The first of 7 requirements that a Nomai project must meet.": "The first of 7 requirements that a Nomai project must meet.",
+    "By using another astral body's gravity to help me, I was able to reach the top of the tower.": "By using another astral body's gravity to help me, I was able to reach the top of the tower.",
+    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.": "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.",
+    "Geothermal Activity": "Geothermal Activity",
+    "Second Requirement": "Second Requirement",
+    "The second of 7 requirements that a Nomai project must meet.": "The second of 7 requirements that a Nomai project must meet.",
+    "By flooding the planet, I was able to safely enter the cave.": "By flooding the planet, I was able to safely enter the cave.",
+    "The second requirement is that a planet must have exposed geothermal activity.": "The second requirement is that a planet must have exposed geothermal activity.",
+    "Warp Alignment": "Warp Alignment",
+    "Third Requirement": "Third Requirement",
+    "The third of 7 requirements that a Nomai project must meet.": "The third of 7 requirements that a Nomai project must meet.",
+    "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.": "The third requirement is for the warp transmitter that does not lead to the orrery station to be aligned with at least one receiver.",
+    "Sand Distribution": "Sand Distribution",
+    "Fourth Requirement": "Fourth Requirement",
+    "The fourth of 7 requirements that a Nomai project must meet.": "The fourth of 7 requirements that a Nomai project must meet.",
+    "By siphoning the sand off the planet using the largest planet in the system, I was able to access the rest of the structure.": "By siphoning the sand off the planet using the largest planet in the system, I was able to access the rest of the structure.",
+    "The fourth requirement is that multiple planets in the system must have sand.": "The fourth requirement is that multiple planets in the system must have sand.",
+    "Orbit Sharing": "Orbit Sharing",
+    "Fifth Requirement": "Fifth Requirement",
+    "The fifth of 7 requirements that a Nomai project must meet.": "The fifth of 7 requirements that a Nomai project must meet.",
+    "Simultaneously scanning all the astral bodies' signals activated a nearby Nomai computer.": "Simultaneously scanning all the astral bodies' signals activated a nearby Nomai computer.",
+    "The fifth requirement is that any two planets that share an orbit must be on opposite sides of the sun.": "The fifth requirement is that any two planets that share an orbit must be on opposite sides of the sun.",
+    "Mass Distribution": "Mass Distribution",
+    "Sixth Requirement": "Sixth Requirement",
+    "The sixth of 7 requirements that a Nomai project must meet.": "The sixth of 7 requirements that a Nomai project must meet.",
+    "By blocking the light from the sun, I was able to quantum entangle with the rock to reach a cave below the surface.": "By blocking the light from the sun, I was able to quantum entangle with the rock to reach a cave below the surface.",
+    "The sixth requirement is that the largest planet in the system may not be in the furthest orbit.": "The sixth requirement is that the largest planet in the system may not be in the furthest orbit.",
+    "Final Location": "Final Location",
+    "Seventh Requirement": "Seventh Requirement",
+    "The last of 7 requirements that a Nomai project must meet.": "The last of 7 requirements that a Nomai project must meet.",
+    "Once all six requirements are met, the project must be submitted in the core of \"Glacial Abyss!\". A Nomai named Alnus pointed out that it is impossible to reach the core via the geysers while all the other project requirements are met.": "Once all six requirements are met, the project must be submitted in the core of \"Glacial Abyss!\". A Nomai named Alnus pointed out that it is impossible to reach the core via the geysers while all the other project requirements are met."
+  },
+
+  "UIDictionary": {
+    	"Walker_Jam5_Star": "Heliocenter",
+		"Walker_Jam5_Planet1": "Shattered Geode",
+		"Walker_Jam5_Planet2": "The Big One",
+		"Walker_Jam5_Planet3": "Daucus",
+		"Walker_Jam5_Planet4": "Glacial Abyss!",
+		"Walker_Jam5_Station": "Orrery Station",
+
+		"Walker_Jam5_Harmonic": "Heliochord",
+		"Walker_Jam5_Star_Signal": "Heliocenter",
+		"Walker_Jam5_Planet1_Signal": "Shattered Geode",
+		"Walker_Jam5_Planet2_Signal": "The Big One",
+		"Walker_Jam5_Planet3_Signal": "Daucus",
+		"Walker_Jam5_Planet4_Signal": "Glacial Abyss!",
+
+		"REQUIREMENTS_SCREEN_PROMPT": "1. A planet in the system has solid ice.\n2. A planet has exposed geothermal activity.\n3. At least one warp receiver is aligned.\n4. More than one planet has sand.\n5. Any planets in the same orbit are on opposite sides of the sun.\n6. The largest planet is not in the furthest orbit.",
+		"ORB_CANCEL_DRAG_PROMPT": "Release Orb"
+  },
+
+  "AchievementTranslations": {
+    "Please add manually.": {}
+  }
+
+}
