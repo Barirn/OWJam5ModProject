@@ -89,7 +89,7 @@
     "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?",
     "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.",
     "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.",
-    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Glacial Abyss!</color>]]>. I'm sure that you understand!": "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Glacial Abyss!</color>]]>. I'm sure that you understand!",
+    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!",
     "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!",
     "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.",
 
@@ -166,7 +166,7 @@
 
     //platform_invitation
     "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.": "The star system in front of you was the subject of an educational project (and festival entry) known as the <![CDATA[<Color=orange>]]>Heliostudy<![CDATA[</Color>]]>.",
-    "This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!": "This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!",
+    "This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!": "This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!",
 
     //students_intro
     "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!": "BETULA: This project sounds pretty fun! Being the architects of a mock star system is a very cool opportunity, especially considering that we get to show it at the next festival!",
@@ -224,7 +224,8 @@
 
     //platform_computer
     "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)": "<![CDATA[<color=red>]]>WARNING:<![CDATA[</color>]]> THIS EXPERIMENTAL ORRERY IS NOW ACTIVE.\r\nUser is fully responsible for any damage caused by using this device. (You will break things.)",
-
+    "Space gear can now be re-equipped.": "Space gear can now be re-equipped.",
+    
     //sand_planet_name
     "BETULA: Daucus, have you decided on a name for this planet yet?": "BETULA: Daucus, have you decided on a name for this planet yet?",
     "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.": "DAUCUS: <![CDATA[<color=orange>Daucus</color>]]>.",
@@ -324,10 +325,10 @@
 
     //walker_jam5_planet3
     "Buried Structure": "Buried Structure",
-    "A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.",
+    "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.",
     "Enclosed Structure": "Enclosed Structure",
     "I was able to access the rest of the structure by arriving via the warp receiver.": "I was able to access the rest of the structure by arriving via the warp receiver.",
-    "A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.": "A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.",
+    "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.": "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.",
 
     //walker_jam5_planet4
     "Subsurface Ocean": "Subsurface Ocean",
@@ -336,12 +337,12 @@
     "Undersea Warp Receiver": "Undersea Warp Receiver",
     "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.": "There is a warp receiver near the equator of \"Glacial Abyss!\" on the seabed under the ice.",
     "Geysers": "Geysers",
-    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
-    "There are geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "There are geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
+    "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.": "Nomai noticed geysers beneath the ice on the seabed of \"Glacial Abyss!\" near the north pole. The flow of the geysers prevents entry. A Nomai named Alnus mentioned that thawing the planet had increased its geothermal activity.",
     "Planetary Core Display": "Planetary Core Display",
     "Abyssal Core": "Abyssal Core",
     "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.": "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. A Nomai teacher wanted her students to see something in the core.",
-    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.": "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet.",
+    "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet's core.": "\"Glacial Abyss!\" has a hollow core connected to the geysers near the north pole. I was able to reach the core by descending the geysers while the planet was frozen. It contains a viewing area for safely observing the layers of the planet's core.",
     "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.": "The warp transmitter from \"Glacial Abyss!\" to the orrery station is in the core of the planet.",
     "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.": "The core of \"Glacial Abyss!\" contains a sealed door. A Nomai computer beside the door states that not all project requirements have been met.",
     "Core Orrery Warp Transmitter": "Core Orrery Warp Transmitter",
@@ -364,7 +365,7 @@
     "First Requirement": "First Requirement",
     "The first of 7 requirements that a Nomai project must meet.": "The first of 7 requirements that a Nomai project must meet.",
     "By using another astral body's gravity to help me, I was able to reach the top of the tower.": "By using another astral body's gravity to help me, I was able to reach the top of the tower.",
-    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.": "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.",
+    "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to while at the furthest orbit.": "The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to while at the furthest orbit.",
     "Geothermal Activity": "Geothermal Activity",
     "Second Requirement": "Second Requirement",
     "The second of 7 requirements that a Nomai project must meet.": "The second of 7 requirements that a Nomai project must meet.",
