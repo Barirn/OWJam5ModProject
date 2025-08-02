@@ -310,6 +310,7 @@
     //Developer Commentary
 
     //Adonsonia
+    "Adonsonia Dialogue": "Adonsonia Dialogue",
     "Author: coderCleric --- Subject: Adonsonia Dialogue": "Author: coderCleric --- Subject: Adonsonia Dialogue",
     "Something that wasn't discussed until a little bit into development is what would actually happen when the player beat the mod. We wanted to come up with something that would tie it together and, ideally, provide a bit of a reward.": "Something that wasn't discussed until a little bit into development is what would actually happen when the player beat the mod. We wanted to come up with something that would tie it together and, ideally, provide a bit of a reward.",
     "We thought that it would be fun if the player had the chance to talk to a Nomai who was checking in on the project, and I had the idea for it to be one of the students. We all decided on Adonsonia since we thought it would be fun to have the delinquent come back as a teacher.": "We thought that it would be fun if the player had the chance to talk to a Nomai who was checking in on the project, and I had the idea for it to be one of the students. We all decided on Adonsonia since we thought it would be fun to have the delinquent come back as a teacher.",
@@ -317,12 +318,14 @@
     "I think she came out pretty good overall. I think that her tone is similar to how she talks in the rest of the mod, while also being distinct enough to show how she's grown. She was a lot of fun to write throughout the entire mod, and here is no exception.": "I think she came out pretty good overall. I think that her tone is similar to how she talks in the rest of the mod, while also being distinct enough to show how she's grown. She was a lot of fun to write throughout the entire mod, and here is no exception.",
 
     //Aurora
+    "Aurora": "Aurora",
     "Author: Walker --- Subject: Aurora": "Author: Walker --- Subject: Aurora",
     "The aurora was a late addition to the mod and was originally added simply to make Glacial Abyss! more visually interesting. The visual effect itself was actually created by Jamie for use in another mod.": "The aurora was a late addition to the mod and was originally added simply to make Glacial Abyss! more visually interesting. The visual effect itself was actually created by Jamie for use in another mod.",
     "However, one issue we discovered in playtesting was that it could be quite difficult to tell whether The Big One is frozen since its surface is a similar color to the ice.": "However, one issue we discovered in playtesting was that it could be quite difficult to tell whether The Big One is frozen since its surface is a similar color to the ice.",
     "To solve this, I decided to add an aurora to The Big One, repurposing it as a universal indicator of a planet being frozen.": "To solve this, I decided to add an aurora to The Big One, repurposing it as a universal indicator of a planet being frozen.",
 
     //Barracks
+    "Barracks": "Barracks",
     "Author: Walker --- Subject: Barracks": "Author: Walker --- Subject: Barracks",
     "This structure serves no gameplay purpose and simply provides a location to give the Nomai students a bit of a character moment. The recorder found here is my favorite piece of writing Cleric did for the mod.": "This structure serves no gameplay purpose and simply provides a location to give the Nomai students a bit of a character moment. The recorder found here is my favorite piece of writing Cleric did for the mod.",
     "This structure also fills out the southern hemisphere of Glacial Abyss! which was conspicuously empty before it was added.": "This structure also fills out the southern hemisphere of Glacial Abyss! which was conspicuously empty before it was added.",
@@ -334,23 +337,27 @@
     "Fun fact: when I first added the campfire, I forgot to include an oxygen volume in this area. So dozing off or roasting a marshmallow would immediately suffocate you.": "Fun fact: when I first added the campfire, I forgot to include an oxygen volume in this area. So dozing off or roasting a marshmallow would immediately suffocate you.",
 
     //BuriedStructureScrollPlacement
+    "Scroll Placement": "Scroll Placement",
     "Author: Walker --- Subject: Scroll Placement": "Author: Walker --- Subject: Scroll Placement",
     "At the end of the jam, the buried scroll in this structure was placed in this shelf just below the sand level.": "At the end of the jam, the buried scroll in this structure was placed in this shelf just below the sand level.",
     "However, after the mod released, I consistently noticed players failing to find the scroll. Some even thought that this wasn't the buried structure described in the Nomai text because there seemingly wasn't much to it underneath the sand.": "However, after the mod released, I consistently noticed players failing to find the scroll. Some even thought that this wasn't the buried structure described in the Nomai text because there seemingly wasn't much to it underneath the sand.",
     "After the jam, I added the interior room and relocated the scroll within it which effectively solved both of these issues.": "After the jam, I added the interior room and relocated the scroll within it which effectively solved both of these issues.",
 
     //ClericIntro
+    "coderCleric Introduction": "coderCleric Introduction",
     "Howdy! I'm coderCleric, one of the people who worked on this mod.": "Howdy! I'm coderCleric, one of the people who worked on this mod.",
     "I've been in the modding community for a while, and have made submissions for the first, second, and third mod jams. This mod was actually my first time making a mod with a team!": "I've been in the modding community for a while, and have made submissions for the first, second, and third mod jams. This mod was actually my first time making a mod with a team!",
     "In this mod I wrote the vast majority of the Nomai text, and also did programming for a few of the puzzles. I hope you enjoy our commentary! You can recognize me by the <![CDATA[<color=purple>purple</color>]]> orb color.": "In this mod I wrote the vast majority of the Nomai text, and also did programming for a few of the puzzles. I hope you enjoy our commentary! You can recognize me by the <![CDATA[<color=purple>purple</color>]]> orb color.",
 
     //ColoredLightCookie
+    "Colored Light Cookies": "Colored Light Cookies",
     "Author: JohnCorby --- Subject: Colored Light Cookies": "Author: JohnCorby --- Subject: Colored Light Cookies",
     "The light emitted by the lava projects a colored texture, which is not a vanilla Unity feature. Outer Wilds modifies the lighting shaders to allow for these colored textures, mainly for slide projectors in Echoes of the Eye.": "The light emitted by the lava projects a colored texture, which is not a vanilla Unity feature. Outer Wilds modifies the lighting shaders to allow for these colored textures, mainly for slide projectors in Echoes of the Eye.",
     "However, for some reason, the colors are inverted before being displayed. I still have no idea why this is done, as it doesn't seem to help with color compression or anything like that.": "However, for some reason, the colors are inverted before being displayed. I still have no idea why this is done, as it doesn't seem to help with color compression or anything like that.",
     "This actually causes an issue in base game with the Nomai escape pods, as they have a spotlight with a triangle texture that is now incorrectly inverted, turning it into an outline of a triangle instead of a solid shape.": "This actually causes an issue in base game with the Nomai escape pods, as they have a spotlight with a triangle texture that is now incorrectly inverted, turning it into an outline of a triangle instead of a solid shape.",
 
     //CommentaryIntro
+    "Developer Commentary Introduction": "Developer Commentary Introduction",
     "Welcome to the developer commentary for Heliostudy!": "Welcome to the developer commentary for Heliostudy!",
     "This mod was developed over the course of two weeks as an entry in the 5th Outer Wilds modding jam. The theme of the jam was <![CDATA[<color=orange>miniature</color>]]> and all entries take place in the same shared world.": "This mod was developed over the course of two weeks as an entry in the 5th Outer Wilds modding jam. The theme of the jam was <![CDATA[<color=orange>miniature</color>]]> and all entries take place in the same shared world.",
     "You can find commentary in these floating orbs across most of the mod's points of interest. You can also use the <![CDATA[<color=orange>\"Developer Commentary\"</color>]]> frequency on your signalcope to locate them and to identify which ones you haven't read yet.": "You can find commentary in these floating orbs across most of the mod's points of interest. You can also use the <![CDATA[<color=orange>\"Developer Commentary\"</color>]]> frequency on your signalcope to locate them and to identify which ones you haven't read yet.",
@@ -359,12 +366,14 @@
     "If you haven't completed the mod yet, you should do so before continuing as much of this commentary will refer to later areas of the mod and may not make sense without the context of the entire experience.": "If you haven't completed the mod yet, you should do so before continuing as much of this commentary will refer to later areas of the mod and may not make sense without the context of the entire experience.",
 
     //ConvergenceHint
+    "Convergence Puzzle Hint": "Convergence Puzzle Hint",
     "Author: coderCleric --- Subject: Convergence Puzzle Hint": "Author: coderCleric --- Subject: Convergence Puzzle Hint",
     "This text is important for demonstrating just how anxious Alnus is about this project, and how overly-seriously he's taking it. While he gets annoyed in other texts, this is the only one where he properly loses his temper.": "This text is important for demonstrating just how anxious Alnus is about this project, and how overly-seriously he's taking it. While he gets annoyed in other texts, this is the only one where he properly loses his temper.",
     "While he's fairly used to Adonsonia messing with him by now, this is one of the most overt cases of her doing it. She made a unique structure to hide the new requirement, after all.": "While he's fairly used to Adonsonia messing with him by now, this is one of the most overt cases of her doing it. She made a unique structure to hide the new requirement, after all.",
     "I actually had pretty mixed feelings about having a Nomai speak in all-caps, but decided to stick with it. It felt right for who Alnus is and the situation that he's in (he's only a kid, after all), and people generally seemed to be a fan of it during playtesting.": "I actually had pretty mixed feelings about having a Nomai speak in all-caps, but decided to stick with it. It felt right for who Alnus is and the situation that he's in (he's only a kid, after all), and people generally seemed to be a fan of it during playtesting.",
 
     //CoreAudio
+    "Core Audio": "Core Audio",
     "Author: Jamie --- Subject: Core Audio": "Author: Jamie --- Subject: Core Audio",
     "Sometimes it's important to know where not to place music!": "Sometimes it's important to know where not to place music!",
     "I originally planned for the core of Glacial Abyss to have a custom music track. It would have been something of a loud and deep chorus (likely using the same chords heard in the gravity crystal ambience, to accompany the purple streaks in the ground -- both hopefully justifying the strange inverted gravity in this area).": "I originally planned for the core of Glacial Abyss to have a custom music track. It would have been something of a loud and deep chorus (likely using the same chords heard in the gravity crystal ambience, to accompany the purple streaks in the ground -- both hopefully justifying the strange inverted gravity in this area).",
@@ -374,6 +383,7 @@
     "The theme felt pretty upbeat, so this was later changed to only (mostly) play in the parts of the structures that you could only access after solving their respective puzzles, as a reward for players!": "The theme felt pretty upbeat, so this was later changed to only (mostly) play in the parts of the structures that you could only access after solving their respective puzzles, as a reward for players!",
 
     //CoreDesign
+    "Core Concept": "Core Concept",
     "Author: Walker --- Subject: Core Concept": "Author: Walker --- Subject: Core Concept",
     "Before we redesigned the puzzle to get here, this location simply served as a place for the quantum rock that's now on Shattered Geode to take you.": "Before we redesigned the puzzle to get here, this location simply served as a place for the quantum rock that's now on Shattered Geode to take you.",
     "I proposed making it look like a diagram of the core of a planet like you'd see in a textbook because I thought it would fit well with the school project concept of the mod. The inverted gravity was inspired by Lumina Terra, another team's entry in the previous jam.": "I proposed making it look like a diagram of the core of a planet like you'd see in a textbook because I thought it would fit well with the school project concept of the mod. The inverted gravity was inspired by Lumina Terra, another team's entry in the previous jam.",
@@ -381,6 +391,7 @@
     "One fun fact is that this area is slightly less than a full hemisphere. This is so that the holographic orbit lines aren't visible passing through the core of the planet.": "One fun fact is that this area is slightly less than a full hemisphere. This is so that the holographic orbit lines aren't visible passing through the core of the planet.",
 
     //CoreWarpPad
+    "Core Warp Pad": "Core Warp Pad",
     "Author: Walker --- Subject: Core Warp Pad": "Author: Walker --- Subject: Core Warp Pad",
     "The use of this warp pad in the final puzzle was a rather late addition to the mod after we had already implemented the rest of the warp transmitters connected to the orrery station.": "The use of this warp pad in the final puzzle was a rather late addition to the mod after we had already implemented the rest of the warp transmitters connected to the orrery station.",
     "Return warps are a mechanic that I think has a lot of potential for use in mods. In the base game, they're just a convenience feature and are never actually required to complete a puzzle.": "Return warps are a mechanic that I think has a lot of potential for use in mods. In the base game, they're just a convenience feature and are never actually required to complete a puzzle.",
@@ -389,6 +400,7 @@
     "This is so that the missing warp transmitter can be added as a rumor fact when you explore the north pole while still allowing the core to be marked as \"more to explore\" until you find the warp pad.": "This is so that the missing warp transmitter can be added as a rumor fact when you explore the north pole while still allowing the core to be marked as \"more to explore\" until you find the warp pad.",
 
     //CutPuzzleConcepts
+    "Cut Puzzles": "Cut Puzzles",
     "Author: Walker --- Subject: Cut Puzzles": "Author: Walker --- Subject: Cut Puzzles",
     "Despite increasing the scope of the mod multiple times during development, we still left a lot of ideas on the cutting room floor. Some puzzle concepts that didn't make it into the final mod include:": "Despite increasing the scope of the mod multiple times during development, we still left a lot of ideas on the cutting room floor. Some puzzle concepts that didn't make it into the final mod include:",
     "Using ice and/or sand to lift a heavy object. Or using ice to allow players to slide a heavy object across the surface of a planet.": "Using ice and/or sand to lift a heavy object. Or using ice to allow players to slide a heavy object across the surface of a planet.",
@@ -403,6 +415,7 @@
     "All in all I think this mod turned out phenomenally! And I'm really happy with what we did accomplish in the mere two weeks we had available.": "All in all I think this mod turned out phenomenally! And I'm really happy with what we did accomplish in the mere two weeks we had available.",
 
     //DevelopmentProcess
+    "Development Process": "Development Process",
     "Author: Walker --- Subject: Development Process": "Author: Walker --- Subject: Development Process",
     "Timeline": "Timeline",
     "Playtesting": "Playtesting",
@@ -422,6 +435,7 @@
     "During each playtest we remained silent except in the case of technical issues with the mod and we encouraged playtesters to voice their thought processes so we could follow what they were thinking.": "During each playtest we remained silent except in the case of technical issues with the mod and we encouraged playtesters to voice their thought processes so we could follow what they were thinking.",
 
     //FinalEntry
+    "Final Entry": "Final Entry",
     "Final Commentary --- All other entries required to unlock.": "Final Commentary --- All other entries required to unlock.",
     "<![CDATA[<color=orange>--Unlock--</color>]]>": "<![CDATA[<color=orange>--Unlock--</color>]]>",
     "From the entire development team: Thank you so much for playing Heliostudy!": "From the entire development team: Thank you so much for playing Heliostudy!",
@@ -431,6 +445,7 @@
     "Well, that's all from us. We hope you had fun!": "Well, that's all from us. We hope you had fun!",
 
     //FinalMusic
+    "Final Room Music": "Final Room Music",
     "Author: JohnCorby --- Subject: Final Room Music": "Author: JohnCorby --- Subject: Final Room Music",
     "This track started off as an arrangement made by Jamie.": "This track started off as an arrangement made by Jamie.",
     "Since I made it towards the end of the jam, I could take elements of all the other songs (mainly the mallet instruments and Heliostudy motif) and combine them with said arrangement.": "Since I made it towards the end of the jam, I could take elements of all the other songs (mainly the mallet instruments and Heliostudy motif) and combine them with said arrangement.",
@@ -438,6 +453,7 @@
     "I also used an isolated section of the ATP music percussion and layered that on top of Jamie's existing percussion, which really fills it out.": "I also used an isolated section of the ATP music percussion and layered that on top of Jamie's existing percussion, which really fills it out.",
 
     //FinalPuzzleFrustration
+    "Streamlining The Final Puzzle": "Streamlining The Final Puzzle",
     "Author: Walker --- Subject: Streamlining The Final Puzzle": "Author: Walker --- Subject: Streamlining The Final Puzzle",
     "A big part of designing the final puzzle was trying to make the sequence of actions the player must take on the final loop as streamlined as possible.": "A big part of designing the final puzzle was trying to make the sequence of actions the player must take on the final loop as streamlined as possible.",
     "In particular, we wanted to avoid the player having to reset the loop if they forgot one of the requirements or made a minor mistake when applying them.": "In particular, we wanted to avoid the player having to reset the loop if they forgot one of the requirements or made a minor mistake when applying them.",
@@ -448,6 +464,7 @@
     "This combination of factors makes the final puzzle less prone to resets than even the final loop of Echoes of the Eye and resetting is relatively quick when it is necessary.": "This combination of factors makes the final puzzle less prone to resets than even the final loop of Echoes of the Eye and resetting is relatively quick when it is necessary.",
 
     //FinalRequirements
+    "Final Requirements": "Final Requirements",
     "Author: coderCleric --- Subject: Final Requirements": "Author: coderCleric --- Subject: Final Requirements",
     "Implementation": "Implementation",
     "Overall Logic": "Overall Logic",
@@ -467,6 +484,7 @@
     "In true Outer Wilds fashion, it is technically possible to brute-force the requirements from the start. It's just very unlikely due to how specific they are and how they interact.": "In true Outer Wilds fashion, it is technically possible to brute-force the requirements from the start. It's just very unlikely due to how specific they are and how they interact.",
 
     //FinalStairs
+    "Final Stairs": "Final Stairs",
     "Author: Walker --- Subject: Final Stairs": "Author: Walker --- Subject: Final Stairs",
     "There are a couple important triggers placed on these stairs.": "There are a couple important triggers placed on these stairs.",
     "Firstly, a loop extension trigger for the final room. This is especially important because the default settings don't freeze time when reading dialog.": "Firstly, a loop extension trigger for the final room. This is especially important because the default settings don't freeze time when reading dialog.",
@@ -475,6 +493,7 @@
     "The primary purpose of this credits volume is to provide a clear delineation between the main mod and the post-mod content with the experimental orrery. I wanted to make sure players knew that the mod was over and that the experimental orrery is just a bonus.": "The primary purpose of this credits volume is to provide a clear delineation between the main mod and the post-mod content with the experimental orrery. I wanted to make sure players knew that the mod was over and that the experimental orrery is just a bonus.",
 
     //FluidTransfer
+    "Fluid Transfer": "Fluid Transfer",
     "Author: Walker --- Subject: Fluid Transfer": "Author: Walker --- Subject: Fluid Transfer",
     "When we were brainstorming puzzles we could use the orrery mechanic for, transferring fluids between planets was one of our earliest ideas. This puzzle was one of the first things I prototyped, even before the orrery was fully working.": "When we were brainstorming puzzles we could use the orrery mechanic for, transferring fluids between planets was one of our earliest ideas. This puzzle was one of the first things I prototyped, even before the orrery was fully working.",
     "Ultimately, we used the concept for several puzzles and it subsequently informed the development of the ice mechanics. It also significantly restricted the designs of Daucus, Glacial Abyss!, and The Big One as they all needed to support their respective fluid(s) with the later two also needing to support ice as well.": "Ultimately, we used the concept for several puzzles and it subsequently informed the development of the ice mechanics. It also significantly restricted the designs of Daucus, Glacial Abyss!, and The Big One as they all needed to support their respective fluid(s) with the later two also needing to support ice as well.",
@@ -482,11 +501,13 @@
     "However, once we began playtesting, we quickly saw that those fears were unfounded. Players tended to grasp the mechanic very quickly. Most even discover it themselves through experimentation with the orrery.": "However, once we began playtesting, we quickly saw that those fears were unfounded. Players tended to grasp the mechanic very quickly. Most even discover it themselves through experimentation with the orrery.",
 
     //FunnyDaucusMoment
+    "Funny Daucus Moment": "Funny Daucus Moment",
     "Author: JohnCorby --- Subject: Funny Daucus Moment": "Author: JohnCorby --- Subject: Funny Daucus Moment",
     "The \"'Won't your planet name be easily confused for your name?' 'Yes.'\" dialogue was the one \"writing\" thing that I seriously suggested and that actually made it into the mod.": "The \"'Won't your planet name be easily confused for your name?' 'Yes.'\" dialogue was the one \"writing\" thing that I seriously suggested and that actually made it into the mod.",
     "Daucus is my personal favorite character, so I'm happy I was able to contribute to his characterization a little bit.": "Daucus is my personal favorite character, so I'm happy I was able to contribute to his characterization a little bit.",
 
     //GeysersEvolution
+    "Geysers": "Geysers",
     "Author: Walker --- Subject: Geysers": "Author: Walker --- Subject: Geysers",
     "The geysers puzzle changed more significantly over the course of development than any other part of the mod. In fact, it originally didn't involve geysers at all.": "The geysers puzzle changed more significantly over the course of development than any other part of the mod. In fact, it originally didn't involve geysers at all.",
     "In the original version of this puzzle, the quantum rock that's now on Shattered Geode was the way players would get to the core. You can learn more about it at the quantum rock structure on Shattered Geode.": "In the original version of this puzzle, the quantum rock that's now on Shattered Geode was the way players would get to the core. You can learn more about it at the quantum rock structure on Shattered Geode.",
@@ -497,12 +518,14 @@
     "It even had the added bonus of making one of the final requirements much less ambiguous. Before the geysers were added, the \"geothermal activity\" requirement was for a planet to have a \"dry seabed\" which is much easier to misinterpret.": "It even had the added bonus of making one of the final requirements much less ambiguous. Before the geysers were added, the \"geothermal activity\" requirement was for a planet to have a \"dry seabed\" which is much easier to misinterpret.",
 
     //GhostMatterCave
+    "Ghost Matter Cave": "Ghost Matter Cave",
     "Author: Walker --- Subject: Ghost Matter Cave": "Author: Walker --- Subject: Ghost Matter Cave",
     "The mechanic used in this puzzle is an interesting case because it's technically a base-game mechanic but it's never explicitly taught to the player. As such, we were much more direct with the hint for this puzzle to ensure players were aware that water can neutralize ghost matter.": "The mechanic used in this puzzle is an interesting case because it's technically a base-game mechanic but it's never explicitly taught to the player. As such, we were much more direct with the hint for this puzzle to ensure players were aware that water can neutralize ghost matter.",
     "I placed this beacon here simply to make the structure more visible from afar. We noticed in playtesting that players have the most trouble finding points of interest on the south pole because they're never visible from the orrery station. This cave is especially bad because it blends in with its surroundings more than other structures.": "I placed this beacon here simply to make the structure more visible from afar. We noticed in playtesting that players have the most trouble finding points of interest on the south pole because they're never visible from the orrery station. This cave is especially bad because it blends in with its surroundings more than other structures.",
     "All of the text in this area is on raised platforms like this one to ensure it's always readable whether sand has been transfered to this planet or not.": "All of the text in this area is on raised platforms like this one to ensure it's always readable whether sand has been transfered to this planet or not.",
 
     //GrandOrrery
+    "Prototype Orrery": "Prototype Orrery",
     "Author: Walker --- Subject: Prototype Orrery": "Author: Walker --- Subject: Prototype Orrery",
     "This device contains as many Nomai orbs as you have Jam 5 entries installed and lets you to move the entire solar system created by each entry once you learn how to activate it.": "This device contains as many Nomai orbs as you have Jam 5 entries installed and lets you to move the entire solar system created by each entry once you learn how to activate it.",
     "This prototype orrery was proposed on day one of the jam but was initially rejected for being too difficult to implement. The concept was inspired by the few entries in Jam 3 that took advantage of the shared world to interact with other teams' entries in interesting ways.": "This prototype orrery was proposed on day one of the jam but was initially rejected for being too difficult to implement. The concept was inspired by the few entries in Jam 3 that took advantage of the shared world to interact with other teams' entries in interesting ways.",
@@ -511,6 +534,7 @@
     "In its final state the prototype orrery serves as a nice reward for players at the end of the mod and is also necessary to solve the puzzles leading to our mod's obligatory easter egg.": "In its final state the prototype orrery serves as a nice reward for players at the end of the mod and is also necessary to solve the puzzles leading to our mod's obligatory easter egg.",
 
     //GravityTower
+    "Gravity Tower": "Gravity Tower",
     "Author: Walker --- Subject: Gravity Tower": "Author: Walker --- Subject: Gravity Tower",
     "This puzzle is a good example of a base-game mechanic recontextualized by giving the player the ability to move the planets around. There isn't any custom code involved in this puzzle, just the natural results of gravity fields interacting.": "This puzzle is a good example of a base-game mechanic recontextualized by giving the player the ability to move the planets around. There isn't any custom code involved in this puzzle, just the natural results of gravity fields interacting.",
     "One issue I encountered when implementing this puzzle was that making the sun's gravity strong enough to allow players to reach the top of the tower would also cause the sun to pull players off the surfaces of planets with lower gravity if they were placed in the closest orbit.": "One issue I encountered when implementing this puzzle was that making the sun's gravity strong enough to allow players to reach the top of the tower would also cause the sun to pull players off the surfaces of planets with lower gravity if they were placed in the closest orbit.",
@@ -519,6 +543,7 @@
     "These were removed after a playtester used them to easily scout-boost up the tower without solving the puzzle.": "These were removed after a playtester used them to easily scout-boost up the tower without solving the puzzle.",
 
     //HarmonicConvergence
+    "Harmonic Convergence": "Harmonic Convergence",
     "Author: Walker --- Subject: Harmonic Convergence": "Author: Walker --- Subject: Harmonic Convergence",
     "The concept for this puzzle originally came from thinking about interesting arrangements I could require the player to put the planets in. Lining all of them up was an obvious choice but it took a while for the rest of the puzzle to be conceived.": "The concept for this puzzle originally came from thinking about interesting arrangements I could require the player to put the planets in. Lining all of them up was an obvious choice but it took a while for the rest of the puzzle to be conceived.",
     "Earlier concepts included Shattered Geode focusing a laser instead of using signals, the signals originating from Nomai devices, or playing the signals shattering a crystal. These were mostly rejected for being infeasible with the time available.": "Earlier concepts included Shattered Geode focusing a laser instead of using signals, the signals originating from Nomai devices, or playing the signals shattering a crystal. These were mostly rejected for being infeasible with the time available.",
@@ -527,6 +552,7 @@
     "The planet signals were originally created for this puzzle but turned out to have the additional benefit of allowing players to identify planets with their signalscope while at the orrery.": "The planet signals were originally created for this puzzle but turned out to have the additional benefit of allowing players to identify planets with their signalscope while at the orrery.",
 
     //HarmonicConvergencePillars
+    "Signal Pillars": "Signal Pillars",
     "Author: Walker --- Subject: Signal Pillars": "Author: Walker --- Subject: Signal Pillars",
     "Originally, the pillars with the torches were spaced evenly around the edge of the platform. I changed this after a playtester interpreted the puzzle as requiring them to line up each of the planets with their respective pillar. Their new placement makes it clearer that all of the planets must be in the same direction.": "Originally, the pillars with the torches were spaced evenly around the edge of the platform. I changed this after a playtester interpreted the puzzle as requiring them to line up each of the planets with their respective pillar. Their new placement makes it clearer that all of the planets must be in the same direction.",
     "The pillars for the sun and The Big One are intentionally placed such that they're in clear view when targeting their respective astral bodies if the planets are all in their starting positions.": "The pillars for the sun and The Big One are intentionally placed such that they're in clear view when targeting their respective astral bodies if the planets are all in their starting positions.",
@@ -534,6 +560,7 @@
     "After the jam ended, it became clear that this was one of the structures players had the hardest time finding. I added these metal pieces to the tops of the pillars to make the structure visible from a greater distance. They also make the structure more visually distinct and harder to mistake for the orrery warp transmitter on the other pole.": "After the jam ended, it became clear that this was one of the structures players had the hardest time finding. I added these metal pieces to the tops of the pillars to make the structure visible from a greater distance. They also make the structure more visually distinct and harder to mistake for the orrery warp transmitter on the other pole.",
 
     //IceClipping
+    "Ice Clipping": "Ice Clipping",
     "Author: Walker --- Subject: Ice Clipping": "Author: Walker --- Subject: Ice Clipping",
     "One of the few significant issues present on the mod upon release was that players could clip into the ice above this warp receiver if they teleported to it while the planet was partially frozen.": "One of the few significant issues present on the mod upon release was that players could clip into the ice above this warp receiver if they teleported to it while the planet was partially frozen.",
     "After watching this happen to a few players I realized it was essential to fix, but actually fixing it proved to be a bit of a challenge.": "After watching this happen to a few players I realized it was essential to fix, but actually fixing it proved to be a bit of a challenge.",
@@ -544,6 +571,7 @@
     "Other solutions I considered included making the ice kill you if you teleported into it or deactivating the warp receiver if the ice was overlapping it. I rejected both of these because they had the potential to introduce confusion about the mechanics of the puzzle.": "Other solutions I considered included making the ice kill you if you teleported into it or deactivating the warp receiver if the ice was overlapping it. I rejected both of these because they had the potential to introduce confusion about the mechanics of the puzzle.",
 
     //IceSphere
+    "Ice Mechanic": "Ice Mechanic",
     "Author: coderCleric --- Subject: Ice Mechanic": "Author: coderCleric --- Subject: Ice Mechanic",
     "Evolution": "Evolution",
     "Trouble": "Trouble",
@@ -559,6 +587,7 @@
     "All of this made the ice a pretty difficult problem to solve. All in all though, I'm quite happy with how the mechanic turned out!": "All of this made the ice a pretty difficult problem to solve. All in all though, I'm quite happy with how the mechanic turned out!",
 
     //JamieIntro
+    "Lezzlebit Introducton": "Lezzlebit Introducton",
     "Heya! I'm Jamie (or Lezzlebit). I did most of the custom shaders and basically all of the custom 2D and 3D art for this mod.": "Heya! I'm Jamie (or Lezzlebit). I did most of the custom shaders and basically all of the custom 2D and 3D art for this mod.",
     "I also collaborated with Will for the music and sounds, programmed the Grand Orrery (hehehe) and helped a bit with design.": "I also collaborated with Will for the music and sounds, programmed the Grand Orrery (hehehe) and helped a bit with design.",
     "I've participated in two prior mod jams, but this was by far the one I was the most involved in!": "I've participated in two prior mod jams, but this was by far the one I was the most involved in!",
@@ -566,6 +595,7 @@
     "The few commentary orbs that belong to me are <![CDATA[<color=pink>pink</color>]]>! Go and read 'em.": "The few commentary orbs that belong to me are <![CDATA[<color=pink>pink</color>]]>! Go and read 'em.",
 
     //JohnIntro
+    "JohnCorby Introduction": "JohnCorby Introduction",
     "Hi, I'm JohnCorby, or Will. Whichever you prefer. If you've played other mods, you've probably seen my name before.": "Hi, I'm JohnCorby, or Will. Whichever you prefer. If you've played other mods, you've probably seen my name before.",
     "I made most of the music for this mod, collaborating with Jamie. It's probably my best work yet.": "I made most of the music for this mod, collaborating with Jamie. It's probably my best work yet.",
     "I also did a bunch of gameplay programming, as well as some technical art/graphics programming for a few of the tricky visual effects.": "I also did a bunch of gameplay programming, as well as some technical art/graphics programming for a few of the tricky visual effects.",
@@ -573,6 +603,7 @@
     "You can find more of me at <![CDATA[<color=cyan>cyan</color>]]> orbs across the system. Also, hello Jon or any other Mobius dev reading this :D": "You can find more of me at <![CDATA[<color=cyan>cyan</color>]]> orbs across the system. Also, hello Jon or any other Mobius dev reading this :D",
 
     //ModStructure
+    "Mod Structure" : "Mod Structure",
     "Author: Walker --- Subject: Mod Structure": "Author: Walker --- Subject: Mod Structure",
     "One thing I'm very proud of with this mod is how nonlinear it is.": "One thing I'm very proud of with this mod is how nonlinear it is.",
     "Something that lots of mods (including my own), and even Echoes of the Eye, struggle with is reaching a similar level of exploration-driven nonlinearity as the base game.": "Something that lots of mods (including my own), and even Echoes of the Eye, struggle with is reaching a similar level of exploration-driven nonlinearity as the base game.",
@@ -583,6 +614,7 @@
     "Ultimately I'm very happy with how this structure turned out!": "Ultimately I'm very happy with how this structure turned out!",
 
     //OrreryMerged
+    "Orrery Design": "Orrery Design",
     "Author: Walker --- Subject: Orrery Design": "Author: Walker --- Subject: Orrery Design",
     "Concept": "Concept",
     "Design Foil": "Design Foil",
@@ -608,6 +640,7 @@
     "Additionally, the radius at which planets repel each other was selected to be just large enough that Glacial Abyss! could not clip into the tower on The Big One if they are placed as close as possible to each other while still being small enough to allow such physics interactions to happen.": "Additionally, the radius at which planets repel each other was selected to be just large enough that Glacial Abyss! could not clip into the tower on The Big One if they are placed as close as possible to each other while still being small enough to allow such physics interactions to happen.",
 
     //OrreryMoveShip
+    "Orrery Ship Movement": "Orrery Ship Movement",
     "Author: JohnCorby --- Subject: Orrery Ship Movement": "Author: JohnCorby --- Subject: Orrery Ship Movement",
     "The addition of the warp pads made it necessary to ensure the player's ship would remain intact if the planet it was resting on was moved. Otherwise, the ship would be catapulted into deep space if the player ever tried to move the planet it was resting on.": "The addition of the warp pads made it necessary to ensure the player's ship would remain intact if the planet it was resting on was moved. Otherwise, the ship would be catapulted into deep space if the player ever tried to move the planet it was resting on.",
     "To do this, I steal a technique QSB uses. It simply records the location of the ship relative to the planet, then moves the planet, then moves the ship so it's in the same relative location.": "To do this, I steal a technique QSB uses. It simply records the location of the ship relative to the planet, then moves the planet, then moves the ship so it's in the same relative location.",
@@ -616,6 +649,7 @@
     "Doing both checks is necessary, because if I only did the contact check, you could move your ship far away and it would still be moved by the last-touched planet.": "Doing both checks is necessary, because if I only did the contact check, you could move your ship far away and it would still be moved by the last-touched planet.",
 
     //OrreryOrbs
+    "Orrery Orbs": "Orrery Orbs",
     "Author: JohnCorby --- Subject: Orrery Orbs": "Author: JohnCorby --- Subject: Orrery Orbs",
     "Orrery orbs/planet syncing was the largest mechanic I worked on. While walker did the initial design, I helped make it work smoothly": "Orrery orbs/planet syncing was the largest mechanic I worked on. While walker did the initial design, I helped make it work smoothly",
     "The main technique is relative location math. We take the location of the orbs relative to the center, and apply that relative location to the planets (at a bigger scale, of course).": "The main technique is relative location math. We take the location of the orbs relative to the center, and apply that relative location to the planets (at a bigger scale, of course).",
@@ -626,12 +660,14 @@
     "Finally, after playtesting, I added the orb release button and prompt, having it in the center of the screen initially to catch the player's attention.": "Finally, after playtesting, I added the orb release button and prompt, having it in the center of the screen initially to catch the player's attention.",
 
     //OrreryScrollReadingOrder
+    "Reading Order": "Reading Order",
     "Author: Walker --- Subject: Reading Order": "Author: Walker --- Subject: Reading Order",
     "This scroll is here instead of a simple piece of Nomai wall text to make players more likely to read the recorder first.": "This scroll is here instead of a simple piece of Nomai wall text to make players more likely to read the recorder first.",
     "The more pertinent information is contained on the recorder and it also sets up the contents of the scroll.": "The more pertinent information is contained on the recorder and it also sets up the contents of the scroll.",
     "However, in playtesting, I found that players would almost always gravitate towards the wall text first. Replacing the wall text with a scroll effectively solved this minor issue.": "However, in playtesting, I found that players would almost always gravitate towards the wall text first. Replacing the wall text with a scroll effectively solved this minor issue.",
 
     //OrreryStationPlacement
+    "Station Placement": "Station Placement",
     "Author: Walker --- Subject: Station Placement": "Author: Walker --- Subject: Station Placement",
     "When first flying to this solar system, this space station is dark and located behind the sun. It also has a relatively short lock-on range.": "When first flying to this solar system, this space station is dark and located behind the sun. It also has a relatively short lock-on range.",
     "These were intentional choices to ensure players would start the mod by exploring one of the planets. We felt the reveal of the orrery mechanic would be stronger if players first experienced the planets as actual planets rather than immediately conceptualizing them as tiny models they can move at will.": "These were intentional choices to ensure players would start the mod by exploring one of the planets. We felt the reveal of the orrery mechanic would be stronger if players first experienced the planets as actual planets rather than immediately conceptualizing them as tiny models they can move at will.",
@@ -639,6 +675,7 @@
     "After visiting this station for the first time each loop, the lights remain on. This makes it easier to revisit and allows it to serve as a landmark for the rest of the loop.": "After visiting this station for the first time each loop, the lights remain on. This makes it easier to revisit and allows it to serve as a landmark for the rest of the loop.",
 
     //OrreryWarpTransmitters
+    "Orrery Warp Pads": "Orrery Warp Pads",
     "Author: Walker --- Subject: Orrery Warp Pads": "Author: Walker --- Subject: Orrery Warp Pads",
     "The idea of having warp pads connected to the orrery station was a later addition to the design. After we cut the idea of having an orrery on each planet and placed this station behind the sun, I realized it was going to be very inconvenient for players to have to fly back and forth to this space station every time they wanted to use the mod's main mechanic.": "The idea of having warp pads connected to the orrery station was a later addition to the design. After we cut the idea of having an orrery on each planet and placed this station behind the sun, I realized it was going to be very inconvenient for players to have to fly back and forth to this space station every time they wanted to use the mod's main mechanic.",
     "I conceived of the warp pads as a way to mitigate this problem by allowing players to land on the planet they're solving a puzzle on, warp to the orrery, solve the puzzle, and immediately warp back to the planet they were exploring. It was only after they were implemented that I thought of the idea of using the warp pads as an element of the final puzzle.": "I conceived of the warp pads as a way to mitigate this problem by allowing players to land on the planet they're solving a puzzle on, warp to the orrery, solve the puzzle, and immediately warp back to the planet they were exploring. It was only after they were implemented that I thought of the idea of using the warp pads as an element of the final puzzle.",
@@ -646,6 +683,7 @@
     "Jamie also created a specific structure shared by all of the orrery warp transmitters so players can tell at a glance that they lead to the orrery.": "Jamie also created a specific structure shared by all of the orrery warp transmitters so players can tell at a glance that they lead to the orrery.",
 
     //OuterWildsDesign
+    "Outer Wilds Mod Design": "Outer Wilds Mod Design",
     "Author: Walker --- Subject: Outer Wilds Mod Design": "Author: Walker --- Subject: Outer Wilds Mod Design",
     "Outer Wilds is not a game you would expect to have a thriving modding community. But it has one nonetheless. Certainly in no small part due to the excellent modding tools developed by other members of the community.": "Outer Wilds is not a game you would expect to have a thriving modding community. But it has one nonetheless. Certainly in no small part due to the excellent modding tools developed by other members of the community.",
     "Every time I think I'm done modding this game, I get pulled right back in for the next jam. It's a fantastic community and I'm proud to be a part of it!": "Every time I think I'm done modding this game, I get pulled right back in for the next jam. It's a fantastic community and I'm proud to be a part of it!",
@@ -655,11 +693,13 @@
     "Hopefully we did a good job and you enjoyed your experience playing Heliostudy!": "Hopefully we did a good job and you enjoyed your experience playing Heliostudy!",
 
     //PhysicsInteractions
+    "Physics Interactions": "Physics Interactions",
     "Author: Walker --- Subject: Physics Interactions": "Author: Walker --- Subject: Physics Interactions",
     "I believe one of the greatest (and funniest) strengths of this mod is how well it lends itself to interesting systemic physics interactions with the player and their ship.": "I believe one of the greatest (and funniest) strengths of this mod is how well it lends itself to interesting systemic physics interactions with the player and their ship.",
     "Nearly every playtester has placed The Big One too close to a planet they were trying to explore and been dragged to their death by its gravitational pull.": "Nearly every playtester has placed The Big One too close to a planet they were trying to explore and been dragged to their death by its gravitational pull.",
 
     //Portraits
+    "Portraits": "Portraits",
     "Author: Jamie --- Subject: Portraits": "Author: Jamie --- Subject: Portraits",
     "I remember thinking it would be fun to draw portraits of each of the four Nomai students and display them in the final room as a fun visual reward for players.": "I remember thinking it would be fun to draw portraits of each of the four Nomai students and display them in the final room as a fun visual reward for players.",
     "When I thought about it potentially being a fun representation of our four-person jam team, I suddenly had an idea: What if each team member drew one of the Nomai?": "When I thought about it potentially being a fun representation of our four-person jam team, I suddenly had an idea: What if each team member drew one of the Nomai?",
@@ -667,6 +707,7 @@
     "Will drew Daucus in Microsoft Paint.": "Will drew Daucus in Microsoft Paint.",
 
     //QuantumPuzzle
+    "Quantum Puzzle": "Quantum Puzzle",
     "Author: Walker --- Subject: Quantum Puzzle": "Author: Walker --- Subject: Quantum Puzzle",
     "The quantum rock located in this structure was originally located on Glacial Abyss! and was how players could reach the core before the geysers were added.": "The quantum rock located in this structure was originally located on Glacial Abyss! and was how players could reach the core before the geysers were added.",
     "In the original version of the puzzle, the quantum rock was placed on the seabed of Glacial Abyss! and players would have to use the ice to block the sun, allowing for quantum entanglement.": "In the original version of the puzzle, the quantum rock was placed on the seabed of Glacial Abyss! and players would have to use the ice to block the sun, allowing for quantum entanglement.",
@@ -676,6 +717,7 @@
     "It took some work to convince the rest of the team to rework the puzzle that late into the jam but I think it was definitely the right move. Cleric and Jamie did most of the work implementing the updated version of this puzzle.": "It took some work to convince the rest of the team to rework the puzzle that late into the jam but I think it was definitely the right move. Cleric and Jamie did most of the work implementing the updated version of this puzzle.",
 
     //RenderingIssues
+    "Rendering": "Rendering",
     "Author: JohnCorby --- Subject: Rendering": "Author: JohnCorby --- Subject: Rendering",
     "Planet Shadows": "Planet Shadows",
     "Rendering Issues": "Rendering Issues",
@@ -692,30 +734,35 @@
     "This was fixed by just turning off that rendering for other planets when you're underwater.": "This was fixed by just turning off that rendering for other planets when you're underwater.",
 
     //RuinsMusic
+    "Ruins Music": "Ruins Music",
     "Author: JohnCorby --- Subject: Ruins Music": "Author: JohnCorby --- Subject: Ruins Music",
     "Around a year ago, I accidentally found the piano library that Andrew Prahlow used for the base game Nomai ruins music (Una Corda).": "Around a year ago, I accidentally found the piano library that Andrew Prahlow used for the base game Nomai ruins music (Una Corda).",
     "The ruins music takes the base game drone and a layer that Jamie made, and slaps the Heliostudy motif and a bunch of other filler piano on it.": "The ruins music takes the base game drone and a layer that Jamie made, and slaps the Heliostudy motif and a bunch of other filler piano on it.",
     "It's supposed to evoke the same mysterious feeling of base game Nomai ruins, but without as much spookiness.": "It's supposed to evoke the same mysterious feeling of base game Nomai ruins, but without as much spookiness.",
 
     //SandHint
+    "Buried Structure Texts": "Buried Structure Texts",
     "Author: coderCleric --- Subject: Buried Structure Texts": "Author: coderCleric --- Subject: Buried Structure Texts",
     "The texts in this structure are pretty informative for Betula's character, showing how she wants her friends to be happy and is a bit upset about having inconvenienced them.": "The texts in this structure are pretty informative for Betula's character, showing how she wants her friends to be happy and is a bit upset about having inconvenienced them.",
     "In the buried scroll in particular, she apologizes to Adonsonia again despite not being explicitly blamed for anything. This is especially notable given how Adonsonia seems to take the whole event on the chin.": "In the buried scroll in particular, she apologizes to Adonsonia again despite not being explicitly blamed for anything. This is especially notable given how Adonsonia seems to take the whole event on the chin.",
     "Overall this was one of the more fun texts to write, especially with Alnus getting to do a little gloating.": "Overall this was one of the more fun texts to write, especially with Alnus getting to do a little gloating.",
 
     //ScoutPatch
+    "Scout Photo Patch": "Scout Photo Patch",
     "Author: coderCleric --- Subject: Scout Photo Patch": "Author: coderCleric --- Subject: Scout Photo Patch",
     "One optimization that we did is the fact that the door only occasionally checks the final requirements, rather than doing it every frame. Specifically, it checks the requirements whenever the player enters the area.": "One optimization that we did is the fact that the door only occasionally checks the final requirements, rather than doing it every frame. Specifically, it checks the requirements whenever the player enters the area.",
     "This seemed to work fine since the player could only change what requirements are fulfilled from the orrery station, but it turned out to be a problem during playtesting. One player used their scout to monitor the door as they made changes to the system, but noticed that the lights never changed.": "This seemed to work fine since the player could only change what requirements are fulfilled from the orrery station, but it turned out to be a problem during playtesting. One player used their scout to monitor the door as they made changes to the system, but noticed that the lights never changed.",
     "Fortunately, this was a simple matter of patching the scout to also update the door whenever it takes a picture. It was a valuable lesson in the importance of playtesting, since this small detail that we didn't think about could definitely cause players a lot of confusion!": "Fortunately, this was a simple matter of patching the scout to also update the door whenever it takes a picture. It was a valuable lesson in the importance of playtesting, since this small detail that we didn't think about could definitely cause players a lot of confusion!",
 
     //SealedHint
+    "Sealed Receiver Hint": "Sealed Receiver Hint",
     "Author: coderCleric --- Subject: Sealed Receiver Hint": "Author: coderCleric --- Subject: Sealed Receiver Hint",
     "This is actually one of the earliest texts that I conceptualized, and I feel that it demonstrates the personalities of each character pretty well (except for Daucus, who isn't here).": "This is actually one of the earliest texts that I conceptualized, and I feel that it demonstrates the personalities of each character pretty well (except for Daucus, who isn't here).",
     "It shows Alnus being antsy about things going wrong, Adonsonia being a bit of a prankster, and Betula trying to keep the peace. It was a lot of fun to write, and actually informed a lot of how I wrote the characters going forward.": "It shows Alnus being antsy about things going wrong, Adonsonia being a bit of a prankster, and Betula trying to keep the peace. It was a lot of fun to write, and actually informed a lot of how I wrote the characters going forward.",
     "(Fun fact: Adonsonia is the way that she is mostly because of the candy wrapper joke. I really liked the idea when I came up with it, and wrote her personality largely to justify it.)": "(Fun fact: Adonsonia is the way that she is mostly because of the candy wrapper joke. I really liked the idea when I came up with it, and wrote her personality largely to justify it.)",
 
     //SpaceMusic
+    "Heliostudy Space Music": "Heliostudy Space Music",
     "Author: JohnCorby --- Subject: Heliostudy Space Music": "Author: JohnCorby --- Subject: Heliostudy Space Music",
     "When Jamie made the Jam 5 space music, it inspired me to make this one just for Heliostudy that complements it. It's in the same key and uses a few pieces from the original song.": "When Jamie made the Jam 5 space music, it inspired me to make this one just for Heliostudy that complements it. It's in the same key and uses a few pieces from the original song.",
     "I was trying to go for an educational/classroom vibe. I stumbled upon a mallet instrument library called Mallet Flux that worked perfectly for this, so I smattered presets everywhere in the song.": "I was trying to go for an educational/classroom vibe. I stumbled upon a mallet instrument library called Mallet Flux that worked perfectly for this, so I smattered presets everywhere in the song.",
@@ -723,6 +770,7 @@
     "I did the programming to make this song fade in when you're within 2500 meters of our system, to abide by the jam rules.": "I did the programming to make this song fade in when you're within 2500 meters of our system, to abide by the jam rules.",
 
     //SpiralWires
+    "Spiral Wires": "Spiral Wires",
     "Author: Jamie --- Subject: Spiral Wires": "Author: Jamie --- Subject: Spiral Wires",
     "I don't have a lot to say here except for that these little spiraly wires are one of my favorite assets I've made for this mod.": "I don't have a lot to say here except for that these little spiraly wires are one of my favorite assets I've made for this mod.",
     "The original model wasn't very interesting looking and had some weird UVs, so I decided to go all out when I remade the model.": "The original model wasn't very interesting looking and had some weird UVs, so I decided to go all out when I remade the model.",
@@ -730,6 +778,7 @@
     "I ended up staring at these wires a lot more than I needed to.": "I ended up staring at these wires a lot more than I needed to.",
 
     //StairLods
+    "Stair LODs": "Stair LODs",
     "Author: Jamie --- Subject: Stair LODs": "Author: Jamie --- Subject: Stair LODs",
     "Walker placed so many stairs on some of the Nomai structures.": "Walker placed so many stairs on some of the Nomai structures.",
     "It drove me a little bit crazy to think about these high-poly multi-material chipped stair prefabs being rendered no matter where you were in this Jam's system...": "It drove me a little bit crazy to think about these high-poly multi-material chipped stair prefabs being rendered no matter where you were in this Jam's system...",
@@ -740,6 +789,7 @@
     "But I feel happy seeing a hundred high-poly stairs seamlessly transition to nearly-identital-at-a-distance low-poly stairs, and maybe that's all that really matters in mod development.": "But I feel happy seeing a hundred high-poly stairs seamlessly transition to nearly-identital-at-a-distance low-poly stairs, and maybe that's all that really matters in mod development.",
 
     //StructurePlacement
+    "Structure Placement": "Structure Placement",
     "Author: Walker --- Subject: Structure Placement": "Author: Walker --- Subject: Structure Placement",
     "Every structure on the surface of every planet in the mod is placed in one of four locations: the north pole, the south pole, facing the sun, or facing away from the sun. We chose these locations to make it as easy as possible for players to find everything.": "Every structure on the surface of every planet in the mod is placed in one of four locations: the north pole, the south pole, facing the sun, or facing away from the sun. We chose these locations to make it as easy as possible for players to find everything.",
     "Generally the orrery warp transmitter is placed on the north pole and any structures without any location restrictions are placed on the south pole.": "Generally the orrery warp transmitter is placed on the north pole and any structures without any location restrictions are placed on the south pole.",
@@ -747,12 +797,14 @@
     "We also made sure to concentrate detail around points of interest, leaving the spaces between them mostly empty.": "We also made sure to concentrate detail around points of interest, leaving the spaces between them mostly empty.",
 
     //StudentIntro
+    "Student Introductions": "Student Introductions",
     "Author: coderCleric --- Subject: Student Introductions": "Author: coderCleric --- Subject: Student Introductions",
     "This is arguably one the most important texts in the mod when it comes to the students. When playing, this is likely to be the first comprehensive look that a player gets at the four, as well as how they interact with each other.": "This is arguably one the most important texts in the mod when it comes to the students. When playing, this is likely to be the first comprehensive look that a player gets at the four, as well as how they interact with each other.",
     "Due to this, it was very important for this text to establish all of the character's core traits: Alnus being anxious, Betula being optimistic, Adonsonia being unworried, and Daucus immediately being tired.": "Due to this, it was very important for this text to establish all of the character's core traits: Alnus being anxious, Betula being optimistic, Adonsonia being unworried, and Daucus immediately being tired.",
     "I personally feel that this text does well in this regard. It lasts just long enough to give a glance at each character, without going on so long that the player loses attention.": "I personally feel that this text does well in this regard. It lasts just long enough to give a glance at each character, without going on so long that the player loses attention.",
 
     //Students
+    "Students": "Students",
     "Author: coderCleric --- Subject: Students": "Author: coderCleric --- Subject: Students",
     "Alnus was the first Nomai student to be conceptualized for the mod. The idea behind him was simple; he was the anxious student who took the project way too seriously.": "Alnus was the first Nomai student to be conceptualized for the mod. The idea behind him was simple; he was the anxious student who took the project way too seriously.",
     "His text was generally written to convey this fact. He constantly reminds the others that they have work to do, and is quick to react when something is amiss.": "His text was generally written to convey this fact. He constantly reminds the others that they have work to do, and is quick to react when something is amiss.",
@@ -763,21 +815,8 @@
     "The original concept behind Daucus was that he would be the group leech. He would only do the work that he absolutely had to, and would largely ignore the wishes of the group.": "The original concept behind Daucus was that he would be the group leech. He would only do the work that he absolutely had to, and would largely ignore the wishes of the group.",
     "I ended up really disliking this version of him while writing though, so he was changed to how he is now. His texts show how he's always looking for the simplest possible solution, with him primarily showing approval for ideas when they are easy.": "I ended up really disliking this version of him while writing though, so he was changed to how he is now. His texts show how he's always looking for the simplest possible solution, with him primarily showing approval for ideas when they are easy.",
 
-    //test
-    "This is a test developer commentary.": "This is a test developer commentary.",
-    "Look at this cube!": "Look at this cube!",
-    "Marvelous.": "Marvelous.",
-    "I hate it.": "I hate it.",
-    "Glad you like it!": "Glad you like it!",
-    "It'll stick around after this dialog ends.": "It'll stick around after this dialog ends.",
-    "Sorry.": "Sorry.",
-    "I'll get rid of it now.": "I'll get rid of it now.",
-
-    //testAuthor
-    "Hi! It's me, Cleric. I definitely wrote this": "Hi! It's me, Cleric. I definitely wrote this",
-    "You can tell because this dodecahedron is purple.": "You can tell because this dodecahedron is purple.",
-
     //TidalLocking
+    "Tidal Locking": "Tidal Locking",
     "Author: coderCleric --- Subject: Tidal Locking": "Author: coderCleric --- Subject: Tidal Locking",
     "Although it doesn't look like much, tidally locking each planet to the sun had a bit of a development process behind it.": "Although it doesn't look like much, tidally locking each planet to the sun had a bit of a development process behind it.",
     "The mod used to create planets and such (New Horizons) has a tidal locking feature that can be set on the planet. At first we just used this, and it seemed to work fine.": "The mod used to create planets and such (New Horizons) has a tidal locking feature that can be set on the planet. At first we just used this, and it seemed to work fine.",
@@ -787,6 +826,7 @@
     "We eventually got rid of the New Horizons tidal locking and handled it fully ourselves. This was fairly simple, but a bit tedious since we needed to change what axes of the planets were pointing in what directions.": "We eventually got rid of the New Horizons tidal locking and handled it fully ourselves. This was fairly simple, but a bit tedious since we needed to change what axes of the planets were pointing in what directions.",
 
     //TransmitterHint
+    "Hacked Transmitter Hint": "Hacked Transmitter Hint",
     "Author: coderCleric --- Subject: Hacked Transmitter Hint": "Author: coderCleric --- Subject: Hacked Transmitter Hint",
     "This text was one of the really important ones for establishing some of the more hidden traits of Adonsonia and Daucus.": "This text was one of the really important ones for establishing some of the more hidden traits of Adonsonia and Daucus.",
     "Adonsonia's distress at causing real harm to the project demonstrates that she does actually care and isn't truly malicious. This is fairly important to her character, since otherwise it would be easy to say that she wants to actually cause harm.": "Adonsonia's distress at causing real harm to the project demonstrates that she does actually care and isn't truly malicious. This is fairly important to her character, since otherwise it would be easy to say that she wants to actually cause harm.",
@@ -795,6 +835,7 @@
     "It also has the bonus of setting up Daucus' technological prowess, which comes up later when the player learns what became of him.": "It also has the bonus of setting up Daucus' technological prowess, which comes up later when the player learns what became of him.",
 
     //UnityTooling
+    "Unity Editor Tooling": "Unity Editor Tooling",
     "Author: JohnCorby --- Subject: Unity Editor Tooling": "Author: JohnCorby --- Subject: Unity Editor Tooling",
     "Most story mods are developed with New Horizons, a mod that lets you create and edit planets (and a million other things) using JSON files.": "Most story mods are developed with New Horizons, a mod that lets you create and edit planets (and a million other things) using JSON files.",
     "However, recently, more mods use the Unity editor to author content. This required robustly made (and robustly documented) tools.": "However, recently, more mods use the Unity editor to author content. This required robustly made (and robustly documented) tools.",
@@ -805,17 +846,20 @@
     "In the end, the general process is to have a \"mod project\" for the source code/NH assets/editor AssetBundles, and then another \"Unity project\" that is opened in editor. We build bundles to the mod project and build THAT into the mods folder where it's loaded in game.": "In the end, the general process is to have a \"mod project\" for the source code/NH assets/editor AssetBundles, and then another \"Unity project\" that is opened in editor. We build bundles to the mod project and build THAT into the mods folder where it's loaded in game.",
 
     //WalkerIntro
+    "Walker Introduction": "Walker Introduction",
     "Hello, I'm Walker! I was the primary designer on the development team. You may know me from my mod Astral Codec or from my work on previous jam entries.": "Hello, I'm Walker! I was the primary designer on the development team. You may know me from my mod Astral Codec or from my work on previous jam entries.",
     "Apart from doing most of the mod's design, I was also responsible for a chunk of the programming, all of the shiplogs, a few of the structures, and organizing all of our playtests. I also created the developer commentary system you're reading right now!": "Apart from doing most of the mod's design, I was also responsible for a chunk of the programming, all of the shiplogs, a few of the structures, and organizing all of our playtests. I also created the developer commentary system you're reading right now!",
     "You can find my commentary on <![CDATA[<color=orange>orange</color>]]> orbs across most of the mod's points of interest where I'll be talking about the design of the mod and how it evolved over time.": "You can find my commentary on <![CDATA[<color=orange>orange</color>]]> orbs across most of the mod's points of interest where I'll be talking about the design of the mod and how it evolved over time.",
 
     //WarpPadCode
+    "One Transmitter Multiple Receivers": "One Transmitter Multiple Receivers",
     "Author: JohnCorby --- Subject: One Transmitter, Multiple Receivers": "Author: JohnCorby --- Subject: One Transmitter, Multiple Receivers",
     "Although base game allows multiple transmitters to share one receiver, the opposite is not true.": "Although base game allows multiple transmitters to share one receiver, the opposite is not true.",
     "I coded this in the silliest way possible in that I just do the alignment check on every receiver to see if it aligns with the transmitter, and then tell the transmitter to do its regular logic on that one.": "I coded this in the silliest way possible in that I just do the alignment check on every receiver to see if it aligns with the transmitter, and then tell the transmitter to do its regular logic on that one.",
     "Yes, this means the alignment check runs twice. It works!": "Yes, this means the alignment check runs twice. It works!",
 
     //WarpReceiverDesign
+    "Warp Receiver": "Warp Receiver",
     "Author: Walker --- Subject: Warp Receiver": "Author: Walker --- Subject: Warp Receiver",
     "This structure presented a couple interesting design challenges. The primary one was that we wanted exploring the exterior to be slightly inconvenient so that it actually feels like a prank pulled by a Nomai. However, I didn't want exploring it to be so inconvenient that it would actually frustrate players.": "This structure presented a couple interesting design challenges. The primary one was that we wanted exploring the exterior to be slightly inconvenient so that it actually feels like a prank pulled by a Nomai. However, I didn't want exploring it to be so inconvenient that it would actually frustrate players.",
     "To achieve this, I gave the structure multiple doors, each of which the player must check individually. However, it is immediately obvious when looking in from outside what each door contains.": "To achieve this, I gave the structure multiple doors, each of which the player must check individually. However, it is immediately obvious when looking in from outside what each door contains.",
@@ -824,6 +868,7 @@
     "I solved this after the end of the jam by adjusting the ship log and adding these arches outside the structure which provide an indication of which door is most important.": "I solved this after the end of the jam by adjusting the ship log and adding these arches outside the structure which provide an indication of which door is most important.",
 
     //Writing
+    "Writing and Narrative": "Writing and Narrative",
     "Author: coderCleric --- Subject: Writing": "Author: coderCleric --- Subject: Writing",
     "Story": "Story",
     "Puzzle hint adjustments": "Puzzle hint adjustments",
