@@ -5,6 +5,8 @@
 An Outer Wilds mod for [its fifth mod jam](https://outerwildsmods.com/jam/jul-2025/).
 Contains developer commentary that can be enabled from the options menu!
 
+Listen to the soundtrack [here](https://open.spotify.com/album/2UM3EtB8dB9WGV8xW0O08Y).
+
 Created by:
 * [coderCleric](https://github.com/coderCleric), who did design, programming, and writing
 * [Lezzlebit](https://github.com/lezzlebit), who did music, audio, 2D and 3D Art, and design
