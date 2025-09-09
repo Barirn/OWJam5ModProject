@@ -90,7 +90,7 @@
     "ALNUS: I fear I won't like the answer, but I need to ask anyway. What's on the computer?": "알누스: 대답이 마음에 들지 않을 것 같지만, 어쨌든 물어봐야겠어. 컴퓨터 안에 뭐가 있는데?",
     "ADONSONIA: Oh, nothing significant — just the condition that I told Oryza would be our fifth project requirement.": "아도소니아: 오, 별거 아니야 — 그냥 내가 오리자 선생님한테 프로젝트의 다섯 번째 조건이 될 거라고 말했던 내용이 들어있어.",
     "ALNUS: Adonsonia, we don't have time for games like this. Please just tell us the solution so that we can know the new requirement.": "알누스: 아도소니아, 이런 게임할 시간 없어. 새로운 조건을 알 수 있게 정답을 알려줘.",
-    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "아도소니아: 미안. 나도 대답해 주고 싶은데, 지금 <![CDATA[<color=orange>다우커</color>]]>에서 하고 있는 프로젝트 때문에 정말 바빠! 이해해 줄 거라 믿을게!",
+    "ADONSONIA: Sorry. I would respond, but I'm really quite busy with a project on <![CDATA[<color=orange>Daucus</color>]]>. I'm sure that you understand!": "아도소니아: 미안. 나도 대답해 주고 싶은데, 지금 <![CDATA[<color=orange>다우커스</color>]]>에서 하고 있는 프로젝트 때문에 정말 바빠! 이해해 줄 거라 믿을게!",
     "ALNUS: YOU HAD TO COME HERE TO WRITE THAT!": "알누스: 그걸 쓰려고 여기까지 온 거냐!!!",
     "DAUCUS: If you committed us to some very difficult requirement, you aren't going to live to see this system presented at the festival.": "다우커스: 만약 우리가 하기에 아주 어려운 조건을 제출했다면, 넌 이 항성계가 축제에서 공개되는 걸 보지 못할 거야.",
 
@@ -218,7 +218,7 @@
     "ALNUS: I suppose that much at least is true.": "알누스: 적어도 그건 맞는 말 같네.",
     "...": "...",
     "ADONSONIA: We should build a campfire.": "아도소니아: 모닥불을 피워야겠어.",
-    "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.": "벨투라: 멋진 아이디어야! 따뜻하게 밤하늘을 볼 수 있을 거야.",
+    "BETULA: That's a wonderful idea! It would warm us, and we would maintain our view of the night sky.": "벨투라: 멋진 아이디어네! 따뜻하게 밤하늘을 볼 수 있을 거야.",
     "ALNUS: That... doesn't sound unpleasant, if I'm being honest.": "알누스: 그건... 솔직히 말해서, 나쁜 생각인 거 같지는 같네.",
     "DAUCUS: I have some food we can roast if you all are willing to build the actual fire.": "다우커스: 내가 구워 먹을 음식은 좀 가져왔어. 너희가 불만 피워준다면 말이지.",
     "ADONSONIA: Then it's a deal! Let's get the fire started, everyone!": "아도소니아: 그럼 약속이야! 다들 불부터 피우자!",
@@ -900,7 +900,7 @@
 
     //walker_jam5_planet3
     "Buried Structure": "매장된 구조물",
-    "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "다우커스의 남에 있는 건물. 건물 대부분이 모래로 묻혀 있다. 아도소니아라는 이름의 노마이는 모래를 다른 곳으로 옮길 수 있는지에 대한 이론을 세웠다.",
+    "A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.": "다우커스의 남쪽에 있는 건물. 건물 대부분이 모래로 묻혀 있다. 아도소니아라는 이름의 노마이는 모래를 다른 곳으로 옮길 수 있는지에 대한 이론을 세웠다.",
     "Enclosed Structure": "밀폐된 건물",
     "I was able to access the rest of the structure by arriving via the warp receiver.": "워프 수신기를 통해 건물의 안으로 들어갈 수 있었다.",
     "A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.": "다우커스의 적도에 있는 워프 수신기 주변에 지어진 건물. 건물 안으로 들어가기 위한 입구가 없다.",
