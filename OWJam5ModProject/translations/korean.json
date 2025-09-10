@@ -136,7 +136,7 @@
 
     //sand_structure_hint
     "DAUCUS: I must say, Adonsonia, it is impressively lazy that you spent all this time at this structure and have only built this little platform.": "다우커스: 이 말은 해야겠어, 아도소니아. 그렇게 오랫동안 이 건물에 있었으면서, 고작 이 작은 플랫폼만 만든 거야? 너 정말 놀라울 정도로 게으른 거 같네.",
-    "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "아도소니아: 여기에 더 많은 걸 지었는데, 내가 몇 시간 동안 공들여 만든 건물을 누군가 모래로 거의 전부 덮어버린 거 같아!",
+    "ADONSONIA: There would be more here, but it seems that somebody has covered the building I've labored for hours on almost entirely in sand!": "아도소니아: 여기에 큰 건물을 지었었는, 내가 몇 시간 동안 공들여 만든 건물을 누군가 모래로 거의 전부 덮어버린 거 같아!",
     "BETULA: I apologize — I believe that may be my fault. I wanted us to have a planet approximating a desert, so I placed a large amount of sand on this one without realizing there was a structure already built.": "벨투라: 미안. 내 잘못인 것 같아. 사막에 가까운 행성을 만들고 싶어서, 이 건물이 있는 줄 모르고 이 행성에 많은 양의 모래를 부었어.",
     "ADONSONIA: I suppose this is more karma for my own antics than anything else, so I accept your apology. I would appreciate help figuring out a way to get rid of the sand, though. I wonder if there may be some way to move it somewhere else.": "아도소니아: 이건 내 장난 때문에 돌아온 업보 같은 거겠지, 그러니 네 사과는 받아들일게. 하지만 모래를 치울 방법을 같이 찾아주면 고맙겠어. 어딘가로 모래를 옮길 방법이 있지 않을까 궁금하네.",
     "ALNUS: That is so strange, Adonsonia! It's almost as if people interfering with your work isn't terribly fun.": "알누스: 정말 이상하네, 아도소니아! 사람들이 네 일을 방해하는 게 별로 재밌지 않은 것 같아.",
@@ -687,7 +687,7 @@
     //OuterWildsDesign
     "Outer Wilds Mod Design": "아우터 와일즈 모드 디자인",
     "Author: Walker --- Subject: Outer Wilds Mod Design": "작성자: Walker --- 주제: 아우터 와일즈 모드 디자인",
-    "Outer Wilds is not a game you would expect to have a thriving modding community. But it has one nonetheless. Certainly in no small part due to the excellent modding tools developed by other members of the community.": "아우터 와일즈는 활발한 모딩을 기대할 수 있는 게임은 아닙니다. 하지만 그럼에도 네트워크가 있습니다. 공동체의 다른 회원들이 개발한 훌룡한 모딩 도구 덕분입니다.",
+    "Outer Wilds is not a game you would expect to have a thriving modding community. But it has one nonetheless. Certainly in no small part due to the excellent modding tools developed by other members of the community.": "아우터 와일즈는 활발한 모딩을 기대할 수 있는 게임은 아닙니다. 하지만 그럼에도 네트워크가 있습니다. 공동체의 다른 회원들이 개발한 뛰어난 모딩 도구 덕분입니다.",
     "Every time I think I'm done modding this game, I get pulled right back in for the next jam. It's a fantastic community and I'm proud to be a part of it!": "이 게임 모딩을 이제 그만하겠다고 생각할 때마다, 다음 대회가 또 저를 끌어당깁니다. 정말 멋진 공동체고, 그 일부라는 게 자랑스럽습니다!",
     "This is a fascinating game to design for but I think the thing that strikes me most about it is that it is inherently a bit of a gamble.": "이 게임은 디자인하기에 매력적인 게임인데, 특히 가장 인상적인 점은 이 게임이 본질적으로 약간의 도박이라는 점입니다.",
     "Since every puzzle can be completed from the start, there's always a chance that players stumble into things before they're supposed to or discover things in an awkward order.": "모든 퍼즐을 처음부터 완성할 수 있기 때문에, 플레이어가 예상보다 일찍 어떤 부분에 부딪히거나 어색한 순서로 발견할 가능성이 항상 있습니다.",
