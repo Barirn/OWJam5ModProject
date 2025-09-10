@@ -62,6 +62,26 @@
                 "rotation": {
                     "x": 270
                 }
+            },
+            {
+                "assetBundle": "planets/assets/walker_jam5_bundle",
+                "path": "Assets/_Bundle/DeveloperCommentaryBlackHole.prefab",
+                "rename": "DeveloperCommentaryBlackHole",
+                "position": {
+                    "y": 5,
+                    "z": 40
+                },
+                "keepLoaded": true
+            },
+            {
+                "assetBundle": "planets/assets/walker_jam5_bundle",
+                "path": "Assets/_Bundle/DeveloperCommentaryWhiteHole.prefab",
+                "rename": "DeveloperCommentaryWhiteHole",
+                "position": {
+                    "y": 5,
+                    "z": 40
+                },
+                "keepLoaded": true
             }
         ],
         "warpTransmitters": [

@@ -15,19 +15,8 @@
     },
     "ReferenceFrame": {
         "hideInMap": true,
-        "maxTargetDistance": 3000,
+        "maxTargetDistance": 3500,
         "bracketRadius": 50
-    },
-    "Volumes": {
-        "audioVolumes": [
-            {
-                "audio": "planets/assets/audio/orrerystation.ogg",
-                "radius": 100,
-                "track": "music",
-                "fadeSeconds": 5,
-                "loop": true
-            }
-        ]
     },
     "Props": {
         "warpReceivers": [
@@ -122,6 +111,16 @@
         "entryLocation": [
             {
                 "id": "Walker_Jam5_Station_Orrery"
+            }
+        ]
+    },
+    "Volumes": {
+        "revealVolumes": [
+            {
+                "radius": 100,
+                "reveals": [
+                    "Walker_Jam5_Station_Fact"
+                ]
             }
         ]
     },

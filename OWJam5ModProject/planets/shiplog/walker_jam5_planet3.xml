@@ -9,7 +9,7 @@
 
         <ExploreFact>
             <ID>Walker_Jam5_Planet3_Buried_Hint</ID>
-            <Text>A mostly buried structure on the equator of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.</Text>
+            <Text>A mostly buried structure on the south pole of Daucus. A Nomai named Adonsonia theorized about whether the sand could be moved elsewhere.</Text>
         </ExploreFact>
     </Entry>
 
@@ -27,7 +27,7 @@
 		
 		<ExploreFact>
 			<ID>Walker_Jam5_Planet3_NoDoor_Hint</ID>
-			<Text>A structure built around a warp receiver on the equator of Daucus. A Nomai named Adonsonia neglected to include a door.</Text>
+			<Text>A structure built around a warp receiver on the equator of Daucus. The structure does not include a door.</Text>
 		</ExploreFact>
 	</Entry>
 

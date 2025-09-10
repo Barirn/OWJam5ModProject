@@ -15,6 +15,9 @@ namespace OWJam5ModProject
 {
     public class OWJam5ModProject : ModBehaviour
     {
+        public delegate void ConfigurationChangedDelegate(IModConfig config);
+        public ConfigurationChangedDelegate OnConfigurationChanged;
+
         public static OWJam5ModProject Instance;
         public INewHorizons NewHorizons;
         private List<GameObject> planetPivots = null;
@@ -49,8 +52,17 @@ namespace OWJam5ModProject
 
         public void OnCompleteSceneLoad(OWScene previousScene, OWScene newScene)
         {
+            DeveloperCommentaryEntry.ResetEntryCounts();
+
             if (newScene != OWScene.SolarSystem) return;
             ModHelper.Console.WriteLine("Loaded into solar system!", MessageType.Success);
+        }
+
+        public override void Configure(IModConfig config)
+        {
+            base.Configure(config);
+
+            OnConfigurationChanged?.Invoke(config);
         }
 
         void OnStarSystemLoaded(string system)
@@ -73,6 +85,7 @@ namespace OWJam5ModProject
             FinalRequirementManager.Initialize();
 
             FindObjectOfType<ShipBody>().gameObject.AddComponent<ShipContactSensor>();
+            FindObjectOfType<Signalscope>().gameObject.AddComponent<DeveloperCommentaryWarpController>();
             
             // for some reason station has lights enabled, so force this ourselves
             NewHorizons.GetPlanet("Walker_Jam5_Station").GetComponentInChildren<SectorLightsCullGroup>().SetShining(false);
@@ -84,7 +97,7 @@ namespace OWJam5ModProject
         const string SAND_FUNNEL_PATH = "Walker_Jam5_Planet3Funnel_Body";
         const string SAND_SOURCE_PATH = "Walker_Jam5_Planet3_Body/Sector/Sand";
         const string SAND_TARGET_PATH = "Walker_Jam5_Planet2_Body/Sector/Sand";
-        public const float SAND_DRAINED_HEIGHT = 142.5f * 2; // Sand sphere's scale is twice its radius
+        public const float SAND_DRAINED_HEIGHT = 137.5f * 2; // Sand sphere's scale is twice its radius
         const float SAND_FILLED_HEIGHT = 255 * 2;
 
         const string WATER_FUNNEL_NAME = "Walker_Jam5_Planet4Funnel_Body";

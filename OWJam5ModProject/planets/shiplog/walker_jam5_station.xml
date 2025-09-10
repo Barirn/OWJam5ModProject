@@ -8,12 +8,10 @@
 		<Curiosity>Walker_Jam5_Station_Orrery</Curiosity>
 		<IsCuriosity/>
 
-		<RumorFact>
-			<ID>Walker_Jam5_Station_Orrery_Rumor</ID>
-      <SourceID>Walker_Jam5_Platform</SourceID>
-			<RumorName>Heliostudy</RumorName>
-			<Text>The system with purple lines and a pale blue star was the subject of an educational project and Nomai festival entry known as the Heliostudy.</Text>
-		</RumorFact>
+		<ExploreFact>
+			<ID>Walker_Jam5_Station_Fact</ID>
+			<Text>A Nomai space station overlooking the star system.</Text>
+		</ExploreFact>
 		
 		<ExploreFact>
 			<ID>Walker_Jam5_Station_Orrery_Fact</ID>
@@ -29,7 +27,7 @@
 			<ID>Walker_Jam5_Station_ProjectRequirements_Count</ID>
 			<Text>A group of Nomai students were assigned a project to prepare this star system to be their clan's entry in a festival. They had to propose 7 requirements that the system would fulfill in order to demonstrate their understanding of the mechanisms of natural star systems.</Text>
 		</ExploreFact>
-
+		
 		<Entry>
 			<ID>Walker_Jam5_Station_ProjectRequirements_FrozenPlanet</ID>
 			<Name>Frozen Planet</Name>
@@ -50,7 +48,7 @@
 
 			<ExploreFact>
 				<ID>Walker_Jam5_Station_ProjectRequirements_FrozenPlanet_Fact</ID>
-				<Text>The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to reduce the heat a planet is exposed to, even at the furthest orbit.</Text>
+				<Text>The first requirement is that solid ice must be present on a planet in the system. The system's star is too hot to allow ice to re-freeze, even in the furthest orbit. A Nomai named Adonsonia wondered if there may be a way to further reduce the heat reaching the planet while it is in the furthest orbit.</Text>
 			</ExploreFact>
 		</Entry>
 

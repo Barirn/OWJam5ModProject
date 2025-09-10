@@ -12,14 +12,14 @@
 		<ID>2</ID>
 		<ParentID>1</ParentID>
 		<Text>
-			 This system is identifiable by its purple lines and pale blue sun. We invite you to explore it!
+			 This system is identifiable by its purple lines and pale blue sun. We invite you to fly over and explore it!
 		</Text>
 	</TextBlock>
 
 	<!--Ship log reveals go here-->
 	<ShipLogConditions>
 		<RevealFact>
-			<FactID>Walker_Jam5_Station_Orrery_Rumor</FactID>
+			<FactID>Walker_Jam5_Star_Heliostudy_Rumor</FactID>
 			<Condition>1</Condition>
 		</RevealFact>
 	</ShipLogConditions>
